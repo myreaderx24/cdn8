@@ -1,0 +1,1049 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>6MinuteSuperhuman.com</title>
+<link rel="stylesheet" href="http://6minutesuperhuman.com/wp-content/themes/6minutev2/style.css" type="text/css" media="all">
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=42165,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/6minutesuperhuman.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://6minutesuperhuman.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://6minutesuperhuman.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://6minutesuperhuman.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://6minutesuperhuman.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.6" />
+<link rel="canonical" href="http://6minutesuperhuman.com/" />
+<link rel='shortlink' href='http://6minutesuperhuman.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://6minutesuperhuman.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2F6minutesuperhuman.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://6minutesuperhuman.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2F6minutesuperhuman.com%2F&#038;format=xml" />
+<!-- Running WishList Member v2.90.3007 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget{ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style><meta name="robots" content="index, follow" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42025556-1', '6minutesuperhuman.com');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body class="home page page-template page-template-page-templatesfront-page-php template-front-page">
+
+<div id="logo">
+<a href="http://6minutesuperhuman.com"><img src="http://6minutesuperhuman.com/wp-content/themes/6minutev2/images/6hs-header.png" /></a>
+</div>
+
+<div id="page" class="site">
+<div id="main" class="wrapper">
+<div id="primary" class="site-content">
+<div id="content" role="main">
+<!-- ############################################## content start ########################################### -->
+<div style="float:right;margin-top:-5px;"><a href="http://6minutesuperhuman.com/login"><img src="http://6minutesuperhuman.com/wp-content/themes/6minutev2/images/login_tab.png" /></a></div><br />
+		<div class="post" id="post-31">
+			<div class="entry">
+				<p><!-- INTRO STARTS HERE --></p>
+<p><!-- FIRST CENTERED BLURB --></p>
+<p class="vwo_1369648098075" style="padding-top: 15px; font-size: 20px; text-align: center; z-index: auto; width: 760px; height: 49px; display: block;" align="center"><b style="color: #990000;">WARNING</b>: DO NOT Do Another Workout Or Any Other Physical Activity Until You Have Read Every Word Of This Important Article</p>
+<p><!-- BLUE FIRST QUOTE --></p>
+<p style="font-size: 36px; color: #2e6ffd;" align="center"><span class="vwo_1369611057972 vwo_1369648094717" style="color: #ff0000;"><span class="vwo_1369627198967 vwo_1369648097138"><b>&#8216;Discover a Scientifically Proven High Performance Formula That Will Reverse Your Age, Increase Your Strength, Speed, Endurance, and INSTANTLY Boost Your Energy Levels While Completely Bulletproofing Your Body From Injuries&#8217;? </b></span></span></p>
+<div id="jwvideo"><div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-31-1" width="640" height="360" poster="http://6minutesuperhuman.com/wp-content/uploads/2013/05/preview.jpg" preload="metadata" controls="controls"><source type="video/mp4" src="https://s3.amazonaws.com/6minsuperhuman/Intro-video-3-dan-go.mp4?_=1" /><a href="https://s3.amazonaws.com/6minsuperhuman/Intro-video-3-dan-go.mp4">https://s3.amazonaws.com/6minsuperhuman/Intro-video-3-dan-go.mp4</a></video></div></div>
+<p><!-- SECOND CENTERED BLURB --></p>
+<p style="font-size: 20px; text-align: center;" align="center">Now YOU Can Learn From My Mistakes and Model What Has Helped Me and Countless Others Enhance Their Performance, Feel Younger, and Make Their Bodies Impervious to Injuries</p>
+<p><!-- LAUNCH BONUS --></p>
+<div class="roundbox2">
+<p class="vwo_1369627418202 vwo_1369648097426" style="text-align: center;"><span style="font-size: xx-large; color: #ff0000;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span class="vwo_1369459252368 vwo_1369627194712"><span style="text-decoration: underline;">SPECIAL BONUS: </span><br />
+Get The Entire 6 Minute Superhuman System PLUS 1 FREE Fat Loss Bonus</span></span></strong></span></p>
+<p>Here&#8217;s your chance to get the most effective pre-workout system ever created.</p>
+<p>This week ONLY you can get <strong>the entire 6 Minute Superhuman System PLUS my FREE Launch bonus The Rapid Fat Loss Ninja System.</strong></p>
+<p>The Rapid Fat Loss Ninja is a 12 Week Rapid Fat Loss Program that utilizes my principles of Metabolic Adaption. As you do more workouts your body adapts to the stresses you place upon it.</p>
+<p>With Metabolic Adaptation the workouts change every 3 weeks to incrementally push your body to its limit and create an incredible fat burning afterburn effect that will have you burning fat for days.</p>
+<p><strong>This 12 week rapid fat loss program regularly retails for $149.95 but you get it absolutely <span style="color: #b10609;">FREE</span> as a thank you for investing in the 6 Minute Superhuman program.</strong></p>
+<p style="text-align: center;"><img class="size-full wp-image-903 aligncenter" title="launch special - 6 minute superhuman" alt="launch special - 6 minute superhuman" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/dan_bundle_2.jpg" width="340" height="287" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/05/dan_bundle_2.jpg 504w, http://6minutesuperhuman.com/wp-content/uploads/2013/05/dan_bundle_2-300x252.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" /></p>
+<p style="text-align: center;"><strong><span style="font-size: large;"><del>Valued At $149.95</del> Yours for Only $47!</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #b10609; font-size: xx-large;">Sale Extended For Only:</span></strong></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>Only $47</strong> (One Time Payment)</span></p>
+<p style="text-align: center;"><a href="http://1.6msuper.pay.clickbank.net/?sku=1361968364&amp;cbfid=11180&amp;cbskin=4975"><span style="font-size: large;"><strong><img class="alignnone size-full wp-image-799" alt="addtocart" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/addtocart.jpg" width="382" height="142" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/05/addtocart.jpg 382w, http://6minutesuperhuman.com/wp-content/uploads/2013/05/addtocart-300x111.jpg 300w" sizes="(max-width: 382px) 100vw, 382px" /></strong></span></a></p>
+</div>
+<p><!-- DEAR FRIEND LETTER --><br />
+<!-- LEFT - IMAGE OF DAN --></p>
+<div style="float: left; width: 345px;"><img class="vwo_1369648093953" style="display: inline-block; height: 400px; width: 320px; z-index: auto;" alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/001_DanGo1.png" /></div>
+<p class="vwo_1369611196958 vwo_1369648094910"><strong>Dear Friend,</strong></p>
+<p>If you want to unlock reservoirs of athletic capacity you didn&#8217;t know you had, reverse the aging process, run faster, jump higher, throw farther, and create a body that is resistant to all injuries then this may be the most important letter you&#8217;ll ever read.</p>
+<p>It doesn&#8217;t matter if you are a bodybuilder, high level athlete, Crossfitter, or even a complete beginner, the secrets you&#8217;ll learn in this article will be critical to keeping your body performing at a high level, regardless of your age, background or experience level.</p>
+<p><span style="text-decoration: underline;">Here&#8217;s why:</span> My name is Dan Go and about 11 years ago when I was consistently injured, always feeling tightness in my body, dragging my low energy butt to the gym, and desperate for help, I discovered a simple 6 Minute Peak Performance Formula that not only boosted my athletic abilities but also reversed all of my nagging injuries I&#8217;ve experienced since I was 21 enabling me to feel better and perform better than I have than ever before.</p>
+<p>Since then, I&#8217;ve spent the past 8 years &#8216;perfecting&#8217;?  and tweaking this fitness and performance breakthrough on my own clients and putting it into system that YOU can use to get the same type of incredible results yourself.</p>
+<p>Can&#8217;t believe it right? Well believe it. If you&#8217;re serious about experiencing endless energy, living in a body that moves and performs better than ever no matter what your age, make your workouts easier, live a life free of aches and pains, then you&#8217;ll need to have this simple Peak Performance Formula to make it happen.</p>
+<p>And in this very article that&#8217;s exactly what I&#8217;ll show you to do.</p>
+<p>So turn off your TV as well as your phone, sit back, relax and make sure to read every word of this letter closely because by the time you finish reading this article, you will have learned:</p>
+<p><!--
+
+
+<div style="clear:both;"></div>
+
+
+&#8211;>
+
+<!-- LIST STARTS WITH CHECK MARKS --></p>
+<ul>
+<li class="vwo_1369611207179 vwo_1369648094974"><strong>The SECRET to getting back the vitality you had as a teenager</strong> and live life at an even HIGHER level of performance than ever before. This is not some new age trick. It&#8217;s a formula that is backed by real scientific research and when used properly will have your body operating at its best every single day.</li>
+<li class="vwo_1369611227174 vwo_1369648095040"><strong>How to ENHANCE your strength, speed, flexibility and endurance</strong> as if you were a professionally paid athlete and improve your body&#8217;s ability to do any every day activity you put in front of it whether it be working out in the gym or even picking up your kid after a long day at work.</li>
+<li class="vwo_1369611247456 vwo_1369648095104"><strong>How to heal your old nagging injuries and prevent new ones from happening</strong> without having to spend thousands of dollars and hours of time at your local chiropractors office.</li>
+<li class="vwo_1369611256527 vwo_1369648095169">A simple<strong> 6 Minute Anti-Aging Formula</strong> that will make your workouts <i>easier</i> yet still give you BETTER results than ever before.</li>
+<li class="vwo_1369611271207 vwo_1369648095236"><strong>3 SHOCKING Workout Myths that you must STOP doing</strong> that are putting up a &#8216;roadblock&#8217;?  on your results in the gym and <i><span style="text-decoration: underline;">setting you up</span></i> for some seriously chronic injuries in your lower back, shoulders and knees.</li>
+<li class="vwo_1369611288335 vwo_1369648095303"><strong>How to IMPROVE your performance in any physical activity you participate</strong> in whether you be a desk jockey or an Olympic Athlete using a simple 3 step sequence.</li>
+<li class="vwo_1369611310181 vwo_1369648095371">An <span style="text-decoration: underline;">easy</span> yet <span style="text-decoration: underline;">fast</span> acting biomechanical movement formula to start all of your workouts effectively <strong>enabling you to exercise and lift weights at your body&#8217;s true level of performance</strong> without any fear of getting injured.</li>
+<li class="vwo_1369611336266 vwo_1369648095439"><strong>How to have more endurance and stamina</strong> to finish all of your your workouts STRONG.</li>
+<li class="vwo_1369611355393 vwo_1369648095505">A scientifically proven method to <strong>reverse your bodies aging process, improve the way you move and increase your immunity to disease</strong>. Each time you use this Peak Performance Formula you&#8217;ll feel more alive and be ready to take on any physical challenge that is put in your path.</li>
+</ul>
+<p><!-- INTRO ENDS HERE --><br />
+<!-- NOW YOU MIGHT BE THINKING STARTS HERE --></p>
+<p class="vwo_1369611156788 vwo_1369648094780" style="font-size: 32px; color: #2e6ffd; margin-top: -30px;" align="center"><strong><span style="color: #000000;">Now you Might Be Thinking</span></strong></p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/002_DanGodDaughter.png" /></div>
+<p class="vwo_1369611170864 vwo_1369648094844"><span style="color: #0000ff;"><i>&#8216;Dan, if your 6 minute secret is that fast and powerful than what is stopping people from experiencing the increased strength, speed, flexibility and energy they really desire? </i></span></p>
+<p class="vwo_group_1369648094844_0"><span style="color: #0000ff;"><i>Why are most people, despite working out still experiencing nagging pains on an every day basis?&#8217;? </i></span></p>
+<p>Well, for one thing, the science behind it is very new that no one (not even personal trainers or fitness &#8216;gurus&#8217;? ) have had access to the information you&#8217;re about to read until now.</p>
+<p>Also, it&#8217;s just human nature to &#8216;keep on driving&#8217;?  when they see the check oil light turn on in their car, meaning</p>
+<p>That you are probably experience some small nagging pain in your bodies but end up shrugging it offuntil it ultimately gets serious, and your forced to do something or face the consequences</p>
+<p>This is what happened to meand it&#8217;s most certainly happening to millions of people throughout world.</p>
+<p>Look, exercising is an ingrained habit in my life. I just love it when I get an intense, sweaty workout in the gym or even at home. I get even more satisfaction when I&#8217;m able to break my own personal lifting records, and see actual progress when I weight lift.</p>
+<p>I do all of this while still enjoying an active life that involves plenty of time with my friends, playing sports and spending quality time with my baby nephew and two god daughters.<br />
+<!-- NOW YOU MIGHT BE THINKING ENDS HERE --></p>
+<p><!-- BUT IT WASN'T ALWAYS THIS WAY STARTS HERE --></p>
+<p class="vwo_1369611425631 vwo_1369648095574" style="font-size: 32px;"><strong>But It Wasn&#8217;t Always This Way</strong></p>
+<p>You see, back when I was 21 years old I thought I was &#8216;Superman&#8217;? .</p>
+<p>No, I didn&#8217;t think I was able to fly nor did I think I would have x-ray vision (that would&#8217;ve been great in college) but I thought that I&#8217;d always have a healthy functioning body that would never &#8216;age&#8217;?  and that I would never be seriously get injured.</p>
+<p>I also came from a small town in Ontario called Markham which at the time was almost like a spitting image of Smallville back then.</p>
+<p>On my free time I was always looking for ways to push my physical limits in every single way possible. Whether it was lifting weights, playing sports, and just causing trouble when I was a kid.</p>
+<p>At times we&#8217;d be so crazy that we&#8217;d pretend to be stuntmen and have one of our friends drive a car full speed while I&#8217;d hold onto the top for dear life. It&#8217;s surprising that I didn&#8217;t break a neck back then.</p>
+<p>I also had a high tolerance to pain. I&#8217;d feel small pains on my body but I&#8217;d disregard it and be able to work through them.</p>
+<p>I thought,</p>
+<p style="font-size: 24px;">&#8216;<i>Hey it&#8217;s normal for everyone to feel a little pain in their bodyright?</i>&#8216;? </p>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/003_LowerBackPain.png" width="320" /></div>
+<p>I didn&#8217;t know that at the time, this mentality would be the cause of my downfall.</p>
+<p>I&#8217;d always felt pain in some area of my body whether it was my shoulders or lower back. As always I brushed it off and made jokes to my friends that, at 21 years old, I was &#8216;getting old&#8217;? .</p>
+<p>Then one day while I was doing deadlifts at the gym I felt a <i>tweak</i> in my lower back. Something about it didn&#8217;t feel right. I didn&#8217;t think anything of it and just kept on pushing through the workout.</p>
+<p>The tweak in my lower back never went away but I still hit the gym 3 days a week to workout. I pushed through the pain even though it got more PAINFUL.</p>
+<p>With every workout my body was getting more and more wrecked which inevitably lead me to having the movement patterns of an 80 year old man. I was also getting weaker in the gym yet I didn&#8217;t know what was happening</p>
+<p>As I was working through my back pain, more shoulder issues started to happen as a result of focusing too much on upper body exercises.</p>
+<p>I grudgingly kept on pushing through and continued to workout. It didn&#8217;t matter to me because in my head nothing seriously bad would ever happen to me.</p>
+<p>Boy was I ever wrong</p>
+<p>After years of suffering through painful workout after workout and seeing my performance decrease in the gym it came to a point where the pain was unbearable. Even getting up off the couch was a painful process.</p>
+<p>I&#8217;d move around like I was a 80 year old man who had hip surgery but, the funny thing way, at the time I was only 22 years old.</p>
+<p>It got so bad that I had to make the decision to quit the one thing that was giving me the most joy in lifethe gym.</p>
+<p>I needed help so I did what everyone did back then: I sought help from a &#8216;professional&#8217;? .<br />
+<!-- BUT IT WASN'T ALWAYS THIS WAY ENDS HERE --><br />
+<!-- $75 A WEEK STARTS HERE --></p>
+<p class="vwo_1369611445571 vwo_1369648095643" style="font-size: 32px; text-align: center;"><strong>$75 a Week For The Rest of My Life? No Thank You!</strong></p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/004_MoneyBag.png" width="320" /></div>
+<p>In my quest to heal my body I went to see numerous chiropractors and physiotherapists. But they all told me different things:</p>
+<p>One physiotherapist said, in what I can only explain as &#8216;medical language&#8217;? , said something that I can&#8217;t remember but it was really smart.</p>
+<p>I swear they use big medical terms just to confuse you.</p>
+<p>A chiropractor told me that I had a spine that curved in one direction causing my problems and that by the time I was 30 I wouldn&#8217;t be able to walkwithout the help of his adjustments of course.</p>
+<p>All of the causes they gave me were all different, except for one thing.</p>
+<p>That whatever the &#8217;cause&#8217;?  was ailing me, that I would have to shell out $75 or more a week to get treated by themand that I&#8217;d have to do it for the rest of my life.</p>
+<p>Obviously, I declined all offers.</p>
+<p>Yet, I needed the gym back in my life. I felt like I was getting fatter and saggy&#8217;er as I spent more days I spent away from the gym. So after a few of weeks of rest I decided to hit the gym again in &#8216;hopes&#8217;?  that my problems would go away.</p>
+<p>I remember that session like it was yesterday.</p>
+<p>I hit my first couple of sets and, while it was painful, I got through my workout with just a light touch pain in my shoulders and back. I thought this was okay so I kept going.</p>
+<p>Once I got through the entire workout I was happy. Even though I felt a little pain it was as bad as it was before. It was encouraging.</p>
+<p>I remember going to to sleep all excited thinking, &#8216;<i>I&#8217;m healed!</i>&#8216;? </p>
+<p>Little did I know.</p>
+<p>At about 2am at night, I was woken up by a stinging pain in my shoulder and an even sharper pain in my lower back. I literally could not sleep nor could I get out of the bed without hurting myself. Putting pressure on either part of my body ended up in excruciating pain, which left me almost in tears.<br />
+<!-- $75 A WEEK ENDS HERE --><br />
+<!-- IT WAS THEN I REALIZED I HAD DONE SOMETHING SERIOUSLY WRONG STARTS HERE --></p>
+<p class="vwo_1369611497497 vwo_1369648095715" style="font-size: 32px; text-align: center;"><strong class="vwo_1369611526081 vwo_1369648095788">It Was Then That I Realized That I Had Done Something Seriously WRONG to My Body.</strong></p>
+<p>I started to get scared. I thought that there was a high possibility that I&#8217;d have to deal with these issues and move like an old man for the rest of my life.</p>
+<p>I had to do somethingbut what?</p>
+<p class="vwo_1369429117411 vwo_1369648092852" style="display: block; height: 16px; width: 760px; z-index: auto;"><strong><span class="vwo_1369429176474 vwo_1369611397121 vwo_1369648095862" style="font-size: x-large;">I Was Going To Find a Solution or DIE Trying</span></strong></p>
+<p class="vwo_1369648095937">As my body worsened I pretty much had no choice but to stop all forms of physical activity, which actually turned out to be a blessing in disguise.</p>
+<p>Even though I was working a 9 to 5 job, most of my free time had been spent in the gym. Since I wasn&#8217;t at the gym anymore I decided to use my free time to researching and studying the intricacies of the human body.</p>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/005_DieTrying.png" /></div>
+<p>I decided then and there that I would research my solution or <b>DIE TRYING.</b></p>
+<p>So I poured myself into studying and invested my money into the BEST books on fitness and performance.</p>
+<p class="vwo_1369648092866">I spent the bulk of my time in the library researching and spent thousands of my hard earned dollars on education trying to learn what the best coaches in the world did with their athletes and clients.</p>
+<p>There had to be some <i>secret</i> way of working out that kept them in tip-top shape.</p>
+<p class="vwo_1369648092871">I would take their theories and then painfully apply their techniques with little to no effect on my body.</p>
+<p>It was a cycle where I would learn, apply, then get frustrated when their &#8216;solution&#8217;?  didn&#8217;t work. It was getting nowhere and I was about to give up.</p>
+<p>But I couldn&#8217;t give up. I had to keep on going.</p>
+<p>There was still something I was missing, something that I wasn&#8217;t doingand it hiding underneath my nose the whole time.</p>
+<p class="vwo_1369611896320 vwo_1369648096010" style="font-size: 32px; text-align: center;"><strong>Success Leaves Clues</strong></p>
+<p>I remember that at the time I was really into self development tapes. I was listening to one tape by a guy named Jim Rohn and he would always have a saying, &#8216;<i>Success leaves clues</i>&#8216;? </p>
+<p>If I was to find the solution then I couldn&#8217;t keep on reading the same books everyone else was reading.</p>
+<p>If I was to get back into the gym I knew I had to go where the &#8216;success&#8217;?  cases were.<br />
+<!-- IT WAS THEN I REALIZED I HAD DONE SOMETHING SERIOUSLY WRONG ENDS HERE --><br />
+<!-- HOW A BASEBALL PLAYER CHANGED MY LIFE STARTS HERE --></p>
+<p class="vwo_1369611910496 vwo_1369648096086" style="font-size: 32px; text-align: center;"><strong>How a Baseball Player Changed My Life</strong></p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/006_BaseBall.png" /></div>
+<p class="vwo_1369648092861">One thing you must know about me is that when I get obsessed about a particular subject I go pretty overboard.</p>
+<p>In my quest to find the solution my desk was littered with note after note and book after book on all subjects relating to the human body. But so far none of them contained the answer I was looking for.</p>
+<p>Then one night, during a late evening researching, in a bout of frustration I buried my face into my pile of notes. It was late and I needed to sleep but I refused. I took a couple deep breaths and forced myself back up and back into study mode.</p>
+<p>It was when I looked up that I <span style="text-decoration: underline;">found a clue </span>that would change my life FOREVER.</p>
+<p>It was an article of a workout program for a professional baseball athlete that I had gotten from the internet.</p>
+<p>What struck me was that he was on the road to recovery and he was coming back from injuries that were eerily similar to mine. He had a very unique program that involved an exercise sequence I&#8217;ve never heard of before.</p>
+<p>The article for the program was done exactly one year ago and at the time of reading it he was in the All Star game and considered one of the best players for his position.</p>
+<p>I decided to dive deeper.</p>
+<p>There was a different article on a professional female tennis player using the very same unique sequence swearing that it kept her injury free and playing at her best for her entire career</p>
+<p>And then another article on a NBA basketball player who had suffered through serious lower back and ankle injuries and is now STILL playing at his best well into his 40&#8217;s.</p>
+<p>He swore that by doing program with the same workout sequence he was able to never fear getting injured again.</p>
+<p>It was a performance formula that most people had no clue about yet didn&#8217;t have to do with injecting needles into their bodies, getting risky surgery or taking expensive supplements.</p>
+<p>From what I discovered it was quick to do and worked almost instantly to keep these pros at their best.<br />
+<!-- HOW A BASEBALL PLAYER CHANGED MY LIFE ENDS HERE --></p>
+<p><!-- SUCCESS WAS LEAVING CLUES... NEW OBSESSION STARTS HERE --></p>
+<p style="font-size: 24px;">Success was leaving clues and that was the beginning of my <b>new obsession.</b></p>
+<div style="float: left;"><img alt="Guy doing crossfit workout" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/007_NewObsession.png" /></div>
+<p>I spent the next few months investing more time and money into my studies researching this weird performance secret. After those months of research I decided</p>
+<p><b>It was time to put it to the test.</b></p>
+<p>I started to use this Peak Performance Formula on my own body. I treated it like a scientific experiment and put it to the test for 2 weeks and then I&#8217;d put promise myself to get back into the gym to &#8216;test&#8217;?  a full workout.</p>
+<p>The two week test was almost unbelievable.</p>
+<p>After spending two week applying this performance formula to my body I stopped feeling pain in any part of my body.</p>
+<p>What was even more surprising was that I was moving around with more freedom and vitality than I&#8217;ve ever experienced before.</p>
+<p>There was no more limited range of motion and I no longer moved like an &#8216;old&#8217;?  man. The cool thing was that I could bend down and pick things up without feeling pain in my back or shoulders.</p>
+<p>After the test I was feeling more confident so I decided that I&#8217;d test my newfound body and go back to the gym.</p>
+<p>What happened next was even MORE amazing</p>
+<p>I remember hitting my first set, then second set, eventually going through my whole program feeling like I haven&#8217;t missed a beateven though I had been gone for an ENTIRE year.</p>
+<p>I was feeling so confident in my body that I even managed to set a personal record on my squat and press and even ran faster intervals on the treadmills with complete ease.</p>
+<p>It was as if I felt like my body was injected with some sort of performance enhancing drug.</p>
+<p>In that workout I hit every exercise with incredible INTENSITY and <i>surprisingly</i> I still had more in my tank right even after I was done my workout.</p>
+<p>The weirdest part was that even after my workout I felt amazing. After years of working out with injuries this was like being in the Twilight Zone. I could do exercises that I had not done for years <span style="text-decoration: underline;">stronger than ever</span> with complete absence of pain.<br />
+<!-- SUCCESS WAS LEAVING CLUES... NEW OBSESSION ENDS HERE --></p>
+<p><!-- MY STAMINA AND ENERGY LEVELS STARTS HERE --></p>
+<p class="vwo_1369611936138 vwo_1369648096164" style="font-size: 24px; text-align: center;"><strong>My Stamina and Energy Levels Were Going Through the Roof!</strong></p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/008_Stamina.png" /></div>
+<p>I felt way better than I ever had in my entire life. It was like my body was enhanced by these few simple exercises.</p>
+<p>As I made a comeback in the gym and utilized these simple shifts to the way I worked out, I became much happier.</p>
+<p>I was also more physically able than I had been in my entire life &#8216; and ever since I applied the Peak Performance Formula to my body I&#8217;ve never experienced pain or the nagging injuries that had been plaguing me from before.</p>
+<p>Most importantly, my newfound &#8216;superhuman-like&#8217;?  body gave me increased confidence in my body , and this poured over into personal life.</p>
+<p>So much so that I decided to ditch my 9 to 5 and become a personal trainer dedicated to helping people see the same changes I&#8217;ve seen in my life. And eventually I&#8217;d start my own personal transformation business.</p>
+<p>Since then, I&#8217;ve used my obsession for fitness and performance to help thousands of men and women change their bodies through the use of the very same fitness principles.</p>
+<p>It&#8217;s lead me to being featured in many publications, and numerous TV shows such as<br />
+Not bad for a small town boy from Markham <img class="wp-smiley" alt=":)" src="http://6minutesuperhuman.com/wp-includes/images/smilies/icon_smile.gif" /></p>
+<p>Now before I reveal what this Peak Performance Formula is, there is one thing that you must know before proceeding<br />
+<!-- MY STAMINA AND ENERGY LEVELS ENDS HERE --></p>
+<p><!-- IT'S NOT YOUR FAULT STARTS HERE --></p>
+<p class="vwo_1369611957135 vwo_1369648096245" style="font-size: 32px; text-align: center;"><strong class="vwo_1369648096310">It&#8217;s NOT Your Fault</strong></p>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/009_Fault.png" /></div>
+<p>The bottom line is that people who are professionally paid athletes and the wealthy have better access to information than you do especially about what works for creating a optimally functioning body.</p>
+<p>They pay big money to have athletic trainers, nutritionists on hand, and doctors watching their every move so it&#8217;s no surprise that they are able to live life and perform at an optimal level day in and day out.</p>
+<p>The fact is, you don&#8217;t need to invest your time or money into any of that stuff. I&#8217;ve taken the principles of what makes the human body function at an optimal rate and took the best parts of what makes an athlete&#8217;s performance superior.</p>
+<p>I don&#8217;t mean to toot my own horn but the information you are about to read will <b>instantly enhance</b> <b>the way your body moves</b> for the rest of your life.</p>
+<p>So if you&#8217;re sitting there right now, feeling weak and frustrated with your slow progress in the gymIf you&#8217;re just plain sick and tired of working out with constant pain in your bodyor if you just want to reverse the aging process and live your life at a higher level</p>
+<p>Sit tight because you are about to learn the Peak Performance Formula that&#8217;s been held back from you all these years.<br />
+<!-- IT'S NOT YOUR FAULT ENDS HERE --><br />
+<!-- SECRET TO BECOMING "AGE-LESS" STARTS HERE --></p>
+<p class="vwo_1369611987187 vwo_1369648096373" style="font-size: 32px; text-align: center;"><strong>The Secret To Becoming &#8216;Age-Less&#8217;? </strong></p>
+<p><a href="http://6minutesuperhuman.com/wp-content/uploads/2013/05/010_Ageless.png"><img class="aligncenter size-full wp-image-530" alt="010_Ageless" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/010_Ageless.png" width="350" height="233" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/05/010_Ageless.png 350w, http://6minutesuperhuman.com/wp-content/uploads/2013/05/010_Ageless-300x199.png 300w" sizes="(max-width: 350px) 100vw, 350px" /></a><br />
+Before I pull back the curtain and tell you just what this mysterious &#8216;secret&#8217;?  is, I want to paint a picture of what you life could look like with the Peak Performance Formula in your hands. So take a moment and turn on your imagination.</p>
+<p>Do your best to make the pictures of what I&#8217;m about to describe as vivid as possible. Then just sit there and try to FEEL how you would feel if your life was actually like this.<br />
+<!-- SECRET TO BECOMING "AGE-LESS" ENDS HERE --></p>
+<p><!-- WHAT WOULD YOUR LIFE BE LIKE IF... STARTS HERE --></p>
+<p style="font-size: 32px;"><span style="font-size: x-large;">What would your life be like if</span></p>
+<table width="100%" cellspacing="1" cellpadding="5">
+<tbody>
+<tr>
+<td style="font-size: 30px; font-weight: bold;" valign="top">1.</td>
+<td valign="top">If you were stronger, faster, more flexible, and had TONS more energy than you ever had before. Any physical challenge, whether it be an every day activity like picking up your kid or something more intense like working out and playing sports, you&#8217;ll find everything to be easier and your body to be more enhanced with your newfound level of athleticism.</td>
+<td width="200" height="200"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/011_WhatWouldYourLife.png" /></td>
+</tr>
+</tbody>
+</table>
+<table width="100%" cellspacing="1" cellpadding="5">
+<tbody>
+<tr style="display: block; margin-top: 10px;">
+<td width="200" height="200"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/012_WhatWouldYourLife.png" /></td>
+<td style="font-size: 30px; font-weight: bold;" valign="top">2.</td>
+<td valign="top">Your enhanced physical abilities instantly generated respect from the people you work with, your friends and your family. You&#8217;ll have people wondering how you can stay so energetic all of the time and telling you that they wish they had your &#8216;athletic genetics&#8217;? </td>
+</tr>
+</tbody>
+</table>
+<table width="100%" cellspacing="1" cellpadding="5">
+<tbody>
+<tr>
+<td style="font-size: 30px; font-weight: bold;" valign="top">3.</td>
+<td valign="top">You had a perfectly healthy body and had unlimited amounts of energy to do all of the activities you wanted with your spouse and kids.</td>
+<td width="200" height="200"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/014_WhatWouldYourLife.png" /></td>
+</tr>
+</tbody>
+</table>
+<table width="100%" cellspacing="1" cellpadding="5">
+<tbody>
+<tr style="display: block; margin-top: 10px;">
+<td width="200" height="200"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/013_WhatWouldYourLife.png" /></td>
+<td style="font-size: 30px; font-weight: bold;" valign="top">4.</td>
+<td valign="top">You never had to worry about getting injured&#8230;ever&#8230;again. You&#8217;d have complete confidence in your body, of what it is capable of and, like a superhuman, you&#8217;d literally be impervious from getting hurt or injured.</td>
+</tr>
+</tbody>
+</table>
+<table width="100%" cellspacing="1" cellpadding="5">
+<tbody>
+<tr style="display: block; margin-top: 10px;">
+<td style="font-size: 30px; font-weight: bold;" valign="top">5.</td>
+<td valign="top">You turned the clock back and moved through life with the vitality of a teenager and be the envy of everyone you knew because of your newfound ability to freely move through life pain free WITHOUT spending long hours in the gym, tons of money on supplements or dangerous (and illegal) injections.</td>
+<td width="200" height="200"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/015_TimeBack.png" /></td>
+</tr>
+</tbody>
+</table>
+<p class="vwo_1369612098601 vwo_1369648096575">The GOOD news is that getting your body to perform in a peak state all day long is not that difficult.</p>
+<p>That bad news is that you first have to make sure you&#8217;re not falling into the trap that keeps millions of people like you constantly injured and unable to operate at your highest level.<br />
+<!-- WHAT WOULD YOUR LIFE BE LIKE IF... ENDS HERE --><br />
+<!-- ALL OF YOUR "PERFORMANCE" PROBLEMS STEM FROM... STARTS HERE --></p>
+<p style="font-size: 32px;" align="center"><b>All of Your &#8216;Performance&#8217;?  Problems Stem From the 21st Century Lifestyle</b></p>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/016_SittingSkeleton.png" /></div>
+<p>You see, what we must realize is that back in the day, humans usually lived on their feet and kept active.</p>
+<p>Whether it was hunting boar in the prehistoric era, tending our crops or working a labour job, we stayed on our feet didn&#8217;t have to worry about being sedentary like we do in today&#8217;s society.</p>
+<p>But in today&#8217;s world we</p>
+<p>Wake up, get out of bed, brush our teeth, kiss our spouses and get our kids ready for school. You get in your car and drive 20 minutes to your 9 to 5 job and then plop down on your desk to start your days work.<br />
+<!-- ALL OF YOUR "PERFORMANCE" PROBLEMS STEM FROM... ENDS HERE --></p>
+<p><!-- THE PROBLEM:... STARTS HERE --></p>
+<p style="font-size: 32px;" align="center"><b>The PROBLEM: We have transformed into a generation that sitsand sits a lot.</b></p>
+<div class="roundbox">
+<p>A study posted on the British medical journal &#8216;The Lancet&#8217;?  published a new series of studies on the health consequences of physical inactivity and the figures are staggering.They show physical inactivity is responsible for as much as 10% of the &#8216;burden of disease&#8217;?  (years of life lost to mortality or disability) from illnesses as diverse as colon cancer, Type 2 diabetes, and coronary heart disease.</p>
+</div>
+<p>You might be thinking, &#8216;<i>Dan, this may not apply to me. Regardless of my job or family I still take the time to workout at least 3 or more times a week. I&#8217;m may sit at my job but I&#8217;m still a pretty active person</i>.&#8217;? </p>
+<p>While that may be the case, did you know that doing your workouts only <span style="text-decoration: underline;">set your body&#8217;s back </span>even further?<br />
+<!-- THE PROBLEM... ENDS HERE --><br />
+<!-- WORST DRIVE EVER STARTS HERE --></p>
+<p class="vwo_1369627245798 vwo_1369648097204" style="font-size: 32px;"><strong>The WorstDriveEVER</strong></p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/017_ShittyRoad.png" /></div>
+<p>The average distance between a persons house and their workplace is 21 miles or about 20 minutes by car. This equates to 40 minutes of total driving a day.</p>
+<p>Now I&#8217;m pretty sure you take good care of your car so that drive should be no problem. You get to work, you get back and you can rely on that car to do it again each and every time like clockwork.</p>
+<p>Now imagine that we take the same car and putting a tablespoon of gravel in its crank shaft (that&#8217;s your engine for non car enthusiasts) and you do this <span style="text-decoration: underline;">every single day</span> without missing a beat.</p>
+<p>Now imagine taking the same car with the gravel inside its engine, driving to work, driving back and then</p>
+<p>Taking it to the racetrack and making it race the Daytona 500 for 45 minutes3 days a week.</p>
+<p>Here&#8217;s the bad news.<br />
+<!-- WORST DRIVE EVER ENDS HERE --></p>
+<p><!-- YOUR CAR IS BREKAING DOWN AS YOU READ THIS STARTS HERE --></p>
+<p class="vwo_1369612115946 vwo_1369648096642" style="font-size: 32px; text-align: center;"><strong>Your &#8216;Body&#8217;?  is Breaking Down As You Read This</strong></p>
+<p><a href="http://6minutesuperhuman.com/wp-content/uploads/2013/05/018_BrokenDown.png"><img class="aligncenter size-full wp-image-584" alt="018_BrokenDown" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/018_BrokenDown.png" width="700" height="213" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/05/018_BrokenDown.png 700w, http://6minutesuperhuman.com/wp-content/uploads/2013/05/018_BrokenDown-300x91.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a><br />
+Slowly but surely the car will break down. It will start with a strange ringing noise in your hood and eventually</p>
+<p>It&#8217;ll get to a point where you&#8217;ll have to take it to the mechanic and get the engine replaced.</p>
+<p>What you don&#8217;t realize is that this is EXACTLY what you are doing to your body <b>every time</b> you put it through an intense workout.</p>
+<p>Every day you sit down for long periods of time, no matter how ergonomic your chair is, you are effectively <i>killing your posture</i> and you take your broken posture to the gym through a battery of intense exercises for 45 minutes.</p>
+<p class="vwo_1369612369682 vwo_1369648097071"><span style="font-size: medium;"><strong>Bad Posture is defined as:</strong></span></p>
+<div class="roundbox">A state of skeletal and muscular balance and alignment that protects the supporting structures of the body from <b><span style="text-decoration: underline;">progressive deformity and injury.</span></b></div>
+<p>Bad posture from sitting is the result of certain muscles <i>tightening</i> up or <i>shortening</i> while others lengthen and become weak which often occurs as a result of one&#8217;s daily activities, namely their jobs.</p>
+<p>In other words, through years of working the 9 to 5, sitting down to watch TV and browsing the internet your muscles have slowly become <span style="text-decoration: underline;">progressively deformed</span>.</p>
+<p>Poor posture affects everything you do in life from working out in the gym, getting out of bed in the morning to just bending down and picking your kid up off the ground.</p>
+<p>A bad postural environment is literally like a molotov cocktail waging war on your body and it slowly kills you by SPEEDING up the process of aging.</p>
+<div class="roundbox">One study found that when you have poor posture (aka postural dysfunction), there is an imperfect relationship among various skeletal structures of the body, and this produces an entire strain on the body&#8217;s supporting framework (<b>Britnell et al. 2005</b>).</div>
+<p>Any restriction on your posture will have a NEGATIVE effect on the freedom of any movement do and you further make this an issue by making your body perform intense workout sessions 3+ days a week.</p>
+<p>No wonder chiropractors are more busier NOW than they have ever been in their 100 year existence.<br />
+<!-- YOUR CAR IS BREAKING DOWN AS YOU READ THIS ENDS HERE --></p>
+<p><!-- THINK ABOUT IT STARTS HERE --></p>
+<p class="vwo_1369612234408 vwo_1369648096707" style="font-size: 32px;"><strong>Think About It</strong></p>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/019_Chiropractor.png" /></div>
+<p>Don&#8217;t you find it weird that at this moment the popularity of chiropractors is at an all-time high?</p>
+<p>80% of North Americans suffer from back, shoulder or knee pain at some point of their lives and more than 20 million North Americans will seek chiropractic care this year.</p>
+<p>Why do you think this is?</p>
+<p>Look no further than the chair you are currently sitting on.</p>
+<p>Plain and simple your posture affects everything you do in life and if not treated you&#8217;ll always be living life in a weakened state and possibly setting yourself for serious chronic injuries (if you don&#8217;t already have them).<br />
+<!-- THINK ABOUT IT ENDS HERE --><br />
+<!-- THE BIGGEST LIE ABOUT "AGING" STARTS HERE --></p>
+<p style="font-size: 32px;" align="center"><b>The Biggest LIE About &#8216;Aging&#8217;? </b></p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/020_LieAge.png" /></div>
+<p>Most people tend to make excuses for being weaker, slower, having less endurance and limited flexibility due to &#8216;age catching up&#8217;?  but in reality it all relates back to the <span style="text-decoration: underline;">one thing</span> they do every day for hours at a time<b>sitting</b>.</p>
+<p>They blindly accept the fact that they&#8217;ll never be able to be as supple or as athletic as they once were <i>back then</i> and that irritating pain in their body os just a reality they&#8217;ll have to deal with for the <b>rest of their lives</b>.</p>
+<p>They believe that there is no way to turn back the clock and that they&#8217;ll have to settle for a downtrodden body that will just get <i>weaker</i> as time goes by.</p>
+<p>Well, I&#8217;m here to let you know that you of all people DO NOT have to accept this mistruth and &#8216;aging&#8217;?  is one BIGFATLIE.</p>
+<p class="vwo_1369459336517 vwo_1369648094004"><span style="font-size: large;">Here&#8217;s the <b>GOOD NEWS.</b></span></p>
+<p>What these people don&#8217;t realize is that they can actually turn back the hands of time and make it possible to have even MORE strength, speed, flexibility and energy than ever before despite your age.</p>
+<p>They can also <i>heal</i> old injuries and <i>bulletproof</i> themselves from new ones from happening just by applying the one Peak Performance Formula that I learned years ago to heal my own body</p>
+<p>And it&#8217;s not hard to apply the Peak Performance Performance Formula to your workouts. Nor does it take a long time to complete.</p>
+<p>And it doesn&#8217;t cost any money. It&#8217;s not a magic supplement. It&#8217;s not a pill nor a potion, nor does it involve dangerous injections.</p>
+<p>It&#8217;s not limited to million dollar athletes, or high level executives who pay people to serve them hand on foot.</p>
+<p>You don&#8217;t need an expensive gym membership, and even better, once you know this secret you <span style="text-decoration: underline;">never</span> have to see another physiotherapist, massage therapist, or chiropractor EVER again.<br />
+<!-- THE BIGGEST LIE ABOUT "AGING" STARTS HERE --><br />
+<!-- THE PEAK PERFORMANCE FORMULA IS... STARTS HERE --></p>
+<p class="vwo_1369612246208 vwo_1369648096777" style="font-size: 32px; text-align: center;"><strong>The Peak Performance Formula is Available to Everyone, Anytime, and Anywhere.</strong></p>
+<p>And most important, it&#8217;s available to you <span style="text-decoration: underline;">right NOW</span>.</p>
+<p>Once you have this Peak Performance Formula in your possession, you&#8217;ll literally be just minutes away (6 minutes actually) from turning back the clock on your body and unleashing your body&#8217;s ultimate physical potential.</p>
+<p>With this knowledge you can literally reverse your body&#8217;s aging process and experience a freedom of life you&#8217;ve always wanted just from this simple formula.</p>
+<p>So if you don&#8217;t already have the Peak Performance Formula, don&#8217;t worry.</p>
+<p>As I mentioned before, this secret is uncommon knowledge &#8216; That&#8217;s why it&#8217;s called a &#8216;secret&#8217;? . In fact, it&#8217;s an idea that not even many of the so-called gurus or experts fully understand, which is why you don&#8217;t even see it available in any of their programs.</p>
+<p>Some people regard the Peak Performance Formula as their &#8216;ace in the hole&#8217;?  and swear by it every single day before they hit the gym, when they wake up or even when before playing a recreational sport.</p>
+<p>And it&#8217;s because (again, due to no fault of your own) this secret was kept hidden from you for so long that you&#8217;ve worked out in weakness and pain all these years.</p>
+<p>But you can finally turn the clock back and achieve that freedom and vitality you had so long ago.</p>
+<p>That&#8217;s my purpose here today, to pull back the curtain and deliver the Peak Performance Formula to you.</p>
+<p>As a trainer and practitioner of over 8 years, I&#8217;ve shared the secret with as many male and female clients as I could.</p>
+<p>And it&#8217;s so simple that you&#8217;ll be surprised as to why you haven&#8217;t been doing it for all this time. So right now the secret is yours to be had and your ultimate physical potential is ready to be reclaimed.</p>
+<p>But before that, right now you need to understand why what you&#8217;re doing (or not doing) right now isn&#8217;t working.</p>
+<p>There are in fact 3 SHOCKING workout sins that you&#8217;ll find in every single gym and to unlock the potential of the Peak Performance Formula you must AVOID them at all costs.</p>
+<p>And when you do, the <i>secret</i> will begin to be revealed<br />
+<!-- THE PEAK PERFORMANCE FORMULA IS... ENDS HERE --><br />
+<!-- 3 SHOCKING WORKOUT SINS STARTS HERE --></p>
+<p class="vwo_1369612284629 vwo_1369648096848" style="font-size: 32px; color: #990000;" align="center"><span style="color: #ff0000;"><b class="vwo_1369627350581 vwo_1369648097355">3 SHOCKING Workout Sins You Must</b></span><br />
+<span style="color: #ff0000;"> <b>AVOID at All Costs</b></span></p>
+<p><!-- SHOCKING WORKOUT SIN 1 --></p>
+<p class="vwo_1369612299187 vwo_1369627196061 vwo_1369648097278" style="font-size: 24px; color: #990000; text-align: center;"><span style="text-decoration: underline; color: #ff0000;"><span style="text-decoration: underline;"><b>SHOCKING WORKOUT SIN #1:</b></span></span><br />
+<span style="color: #ff0000;"> <b>Your Fascial Tissue is HOLDING Your Body Back and Keeping You in Pain</b></span></p>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/021_Fascia1.png" /></div>
+<p>What is Fascial Tissue and how does it relate to your performance?</p>
+<p>Fascia is an tissue which re-organizes long the lines of tension imposed on your body, adding support to any misalignment and contracting to protect you from further trauma.</p>
+<p>To get a better idea of Fascia picture in your mind a sword.</p>
+<p>Fascia is the sheath that goes over the sword to protect act as a protectant. Fascia is your sheath protecting and covering every single muscle on your body.</p>
+<p>It has been estimated by researchers that if every structure of the body EXCEPT the fascia was removed, the body would STILL retain its shape.</p>
+<p>Fascia has the potential to alter your organ and tissue physiology significantly. Any strains in your fascial tissue can slowly <strong>tighten</strong> your body <span style="text-decoration: underline;">causing it to lose it&#8217;s overall ability to perform</span> under any stress.</p>
+<p class="vwo_1369612330329 vwo_1369648096922" style="font-size: 24px; text-align: center;"><strong><span style="text-decoration: underline;">Fact</span>: Your Fascial Tissue Affects EVERY Aspect Of Your Life</strong></p>
+<p>If your fascial tissue is poor, a tightness will spread over you like a pair of stinky socks or that ugly Christmas sweater that grandma knit you. No offense Grandma.</p>
+<p>Your flexibility and ability to move will be depleted inevitably setting you up for more weakness, pain and limited range of motion.</p>
+<p class="vwo_1369612342465 vwo_1369648096997" style="font-size: 24px; text-align: center;"><strong>Most of the Population is Suffering From Poor Fascial Tissue</strong></p>
+<p>The sad fact is that 90% of the North American population is operating with poorly functioning fascial tissue due to their jobs and namely their &#8216;sitting&#8217;?  lifestyle.</p>
+<p>These &#8216;fascial restrictions&#8217;?  are so mutinous that they begin to pull the body out its alignment or in other words it throws your body out of balance resulting in <span style="text-decoration: underline;">bad posture</span>.</p>
+<p>This results in 90% of the population operating in what&#8217;s termed as a &#8216;biomechanically inefficient&#8217;?  body that uses up MORE energy than it really should.</p>
+<p>The restrictions of your fascial tissue create pain throughout the entire body and numerous studies allude to this fact.</p>
+<div class="roundbox">One study has found that pain felt in specific areas of the body can be frequently related back to having actual adhesions in the fascial tissue. (Schleip R et al. ligament subfailure injuries lead to muscle control dysfunction&#8217;?  (M. Panjabi). European Spine Journal 2007; 16: 1733-1735)</div>
+<p>Things get even worse when they go to the gyms in their poorly functioning bodies and put them through 45 minutes to an hour of intense workouts.</p>
+<p>An extremely HIGH percentage of people suffer through pain and loss of motion due to poorly functioning fascial tissue and the intense workouts they do on top of them.</p>
+<p>It&#8217;s not a secret either. If you look around you 9 times out of 10 you&#8217;ll find a person with some sort of pain in their body and it&#8217;s mainly due to having poorly functioning fascial tissue.</p>
+<p>One way to avoid this problem is to <span style="text-decoration: underline;">massage your fascial tissue</span> on a regular basis or at the very least right before you do any workout session.</p>
+<p>Now you may be thinking this, &#8216;<i>I know I should get more massages but massage therapists are expensive I don&#8217;t have the money to pay them every time I need a rub down</i>&#8216;? </p>
+<p>Well I&#8217;m here to tell you that you DON&#8217;T need one.</p>
+<p>This can be <em>easily</em> remedied by applying the first principle of the Peak Performance formula. But more on that later.<br />
+<!-- SHOCKING WORKOUT SIN 1 ENDS HERE --></p>
+<p><!-- SHOCKING WORKOUT SIN 2 STARTS HERE --></p>
+<p class="vwo_1369627513907 vwo_1369648097495" style="font-size: 24px; color: #990000; text-align: center;"><span style="text-decoration: underline; color: #ff0000;"><b>SHOCKING WORKOUT SIN #2:</b></span><br />
+<span style="color: #ff0000;"> <b>You Don&#8217;t Warm Up Before Exercise OR Even WORSE..</b></span><br />
+<span style="color: #ff0000;"> <b>You End Up Warming Up the WRONG Way.</b></span></p>
+<p><a href="http://6minutesuperhuman.com/wp-content/uploads/2013/05/022_WrongWay.png"><img class="aligncenter size-full wp-image-584" alt="022_WrongWay" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/022_WrongWay.png" width="700" height="259" /></a></p>
+<p>A lot of people disregard their warm ups as boring and just a waste of time. When it is, in fact, one of the most IMPORTANT aspects of your workout</p>
+<p>Remember that car analogy we used a little earlier?</p>
+<p>Not warming up properly (or doing the wrong one) is like taking a car that&#8217;s been sitting in the dead of winter for 8 hours and turning on the ignition and immediately taking it drag racing.</p>
+<p>These days your average joe is waking up, going to work, sitting on their butts staring at a computer (while killing their posture) and then hitting the gym for a seriously intense one hour workout WITHOUT effectively warming up their bodies.</p>
+<div class="roundbox">
+<p>A recent study done by <strong>Arthritis Research UK and the Chartered Society of Physiotherapy</strong> asked 2,583 adults and 1,022 children across the UK asked about their physical activity levels over the previous week.</p>
+<p>Just <strong>one in five active people</strong> said that they &#8216;always&#8217; warm up and cool down when doing exercise. Some 24 per cent said they &#8216;never do&#8217;. The main reasons given by those who don&#8217;t warm up were &#8216;can&#8217;t be bothered&#8217; (28%) and &#8216;it&#8217;s not important&#8217; (27%). Three quarters (74%) of people who never warm up have not been shown how to do it.</p>
+<p>The same study said that many people in the UK may be increasing their risk of injury and joint problems like osteoarthritis in later life by not starting their exercises with a proper warm up.</p>
+</div>
+<p>The RIGHT warm up prior to any physical activity does a number of beneficial things such as preventing injury, improving performance, raising your core temperature, reducing your muscle stiffness and getting your heart rate up to a workable rate.</p>
+<p>BUT its primary purpose is to <span style="text-decoration: underline;">wake up your nervous system</span> to be ready for any type of strenuous activity.</p>
+<p>What you must know is that warming up is an ESSENTIAL part of your workout and it doesn&#8217;t have to be boring either.</p>
+<p>There is a way to get your body warm as well as release a essential fluid your body naturally produces to have it moving freely without obstruction. Keep on reading<br />
+<!-- SHOCKING WORKOUT SIN 2 ENDS HERE --></p>
+<p><!-- SHOCKING WORKOUT SIN 3 STARTS HERE --></p>
+<p class="vwo_1369627590828 vwo_1369648097575" style="font-size: 24px; color: #990000; text-align: center;"><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;"><b class="vwo_1369459397230 vwo_1369627498343">SHOCKING WORKOUT SIN #3:</b></span></span><br />
+<span style="color: #ff0000;"> <b>You STILL Do Static Stretching</b></span></p>
+<p class="vwo_1369459414463 vwo_1369648094035">Static stretching <em>was</em> a very popular method used to get your body supple and prepared.</p>
+<p class="vwo_group_1369648094035_0">Keep in mind that I said, &#8216;Was&#8217;? .</p>
+<p>It was also <em>thought</em> to be useful in preventing injuries. &#8216;Was&#8217;?  being the primary word.</p>
+<p>Static stretches are stretches that are usually held for 30 seconds to a minute at a time and if you go to your local gym you&#8217;ll probably find a section with its members doing all sorts of them in a specific stretching area.</p>
+<p>However, the reality of things is that <strong>new research proves that static stretching is detrimental to performance and sets up your body for injuries</strong>.</p>
+<div class="roundbox">One study on static stretching found that when college athletes used static stretching as a warm up before testing their vertical jump. What they found is that their vertical jump performance is diminished for 15 minutes if performed after using a static stretch program (J Strength Cond Res. 2007 Feb;21(1):223-6.)</div>
+<p>When done before any physical activity (especially weight lifting) static stretches actually weaken your muscles and this &#8216;weakening of the muscles&#8217;?  can possibly expose you to greater chance for injury.</p>
+<p>Want a little more proof? Look no further than our friends in Scandinavia</p>
+<div class="roundbox">
+<p>The authors of the study examined articles published over a 44-year period to determine the effect static stretching has on athletes&#8217; strength, power and explosive muscle performance while they&#8217;re engaged in their sport.</p>
+<p class="vwo_1369459432262 vwo_1369648094070">It was discovered that static stretching before exercise had a negative impact on athletic performance regardless of the subject&#8217;s age, gender or fitness level. <strong>(Scand J Med Sci Sports 2013 Mar;23(2):131-48.)</strong></p>
+</div>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/023_ToeTouch.jpg" /></div>
+<p>Traditional stretches, like when people bend over to touch their toes or stretch their legs on a fence, often cause the muscles to <strong>relax</strong> rather than tighten &#8216; which is the EXACT OPPOSITE of what is needed for physical activity.</p>
+<p>When you stretch your muscles to their full length you are weakening the force you can contract with while setting them up for possible strain or injury.</p>
+<p>Stretching *may* increase the range of motion they can attain, but NOT their ability to stabilize in these new positions. Doing this will limit your performance in any physical activity you choose to perform.</p>
+<p>It&#8217;s like getting in your car and putting on a seatbelt that doesn&#8217;t function: <span style="text-decoration: underline;">You think you&#8217;re protected but you&#8217;re really NOT</span>.</p>
+<p>Only the true fitness experts all agree that if you still choose to static stretch before any kind of physical activity that you&#8217;re probably better off not doing it at all.</p>
+<p>The key is to keep your stretches short and dynamic while getting your entire body activated through the use of a specific form of mobility exercises.<br />
+<!-- SHOCKING WORKOUT SIN 3 ENDS HERE --><br />
+<!-- SHOCKING WORKOUT SINS ENDS HERE --><br />
+<!-- TOP 3 "SECRETS" OF PEAK PERFORMANCE STARTS HERE --></p>
+<div class="vwo_1369462188351 vwo_1369648094642" style="font-size: 32px; font-weight: bold; text-align: center;"><span class="vwo_1369627609588 vwo_1369648097656" style="color: #0000ff;">The Top 3 &#8216;Secrets&#8217;?  Of Peak Performance</span></div>
+<p>You know &#8216;The Sins&#8217;? . YouÊ¼ve heard my story. Now itÊ¼s time to share some of my secret weapon.</p>
+<p>Now saying &#8216;Secret Weapon&#8217;?  is a bit misleading. It makes it sound like I&#8217;ve discovered some mystical powers that magically transform your body.</p>
+<p>But you know by now that such things just donÊ¼t exist</p>
+<p>What I did find were methods so powerful and precise that using them was like mounting a &#8216;surgical strike&#8217;?  to enhancing your body both instantly and permanently.</p>
+<p><!-- PEAK PERFORMANCE SECRET 1 STARTS HERE --></p>
+<div class="vwo_1369627619366 vwo_1369648097738" style="font-weight: bold; font-size: 24px; color: #2e6ffd; text-align: center;"><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;">Peak Performance Secret #1</span></span><br />
+<span style="color: #0000ff;"> Utilize the POWER Of Self Myofascial Release (SMR)</span></div>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/024_TopSecretOne.png" /></div>
+<p>Self Myofascial Release is the process of <span style="text-decoration: underline;">massaging yourself</span> using either a foam roller or lacrosse ball and it is by far the best way to heal your poorly functioning fascial tissue.</p>
+<p>The best part is that you don&#8217;t need to pay a massage therapist $60 a session and up to do it.</p>
+<p>In fact many of my clients do not feel the need to pay for massage therapists after applying the SMR techniques in the Peak Performance Formula.</p>
+<p>The beauty of it is that can do SMR in the comfort in your own home or in the gym and it will <strong>help heal your old injuries, prevent any new ones and increase your body&#8217;s ability to lift, move, run, throw and jump</strong>.</p>
+<p>SMR smoothes out the dysfunction in your fascial tissue so your muscles are always working at it&#8217;s best peak efficiency all day long.</p>
+<p>If you choose to not treat your fascial tissue with SMR it&#8217;s like carrying around a backpack of heavy rocks with you everywhere you go that holds you back from doing tasks, eventually creating pain in the entire body.</p>
+<p>Choosing to neglect doing self myofascial release is like saying you don&#8217;t mind living life or doing your workouts halfway and I think we can all agreethat is DEFINITELY not the case.</p>
+<p>When you apply SMR to your body you are essentially <span style="text-decoration: underline;">fixing your current fascial issues</span>, healing old adhesions and dysfunctions in the muscle and creating an environment were your body operate at its BEST.</p>
+<p>When this happens you actually have MORE strength, speed, flexibility and power because your muscles will fire off in the way it was meant to.</p>
+<p>You&#8217;ll also have MORE energy than ever before because your body will be moving more efficiently FREE of any dysfunction in your muscle tissue.<br />
+<!-- PEAK PERFORMANCE SECRET 1 ENDS HERE --></p>
+<p><!-- PEEK PERFORMANCE SECRET 2 STARTS HERE --></p>
+<div class="vwo_1369627635835 vwo_1369648097821" style="font-weight: bold; font-size: 24px; color: #2e6ffd; text-align: center;"><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;">Peak Performance Secret #2</span></span><br />
+<span style="color: #0000ff;"> Neuromuscular Activators (NMA&#8217;s)</span></div>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/025_TopSecretTwo.png" /></div>
+<p>A Neuromuscular Activator (NMA&#8217;s) is a type of warm up raises your core body temperature, wakes up your nervous system and gets your entire body prepared for any type of stress you place upon it.</p>
+<p><strong>Think of this type of warm up program like a &#8216;shot of espresso&#8217;?  but for your body.</strong></p>
+<p>Obviously you are aware that your body has a nervous system and after a long period of rest your nervous system needs to do certain exercises to &#8216;wake it up&#8217;? .</p>
+<p>NMA type exercises do a great job of &#8216;turning on the switch&#8217;?  for your body energizing it for the task you place in front of it.</p>
+<p>NMA&#8217;s do another job for your body: <strong>Lubrication of your joints</strong>.</p>
+<p>NMA&#8217;s release something into your body called synovial fluids that <span style="text-decoration: underline;">lubricate your joints and make them more pliable for your workouts</span>. You&#8217;ll notice that the warmer you hit a workout you (and your joints) will be more &#8216;ready&#8217;?  for the task.</p>
+<p>NMA type of warm ups consist of full body movements that warm up, lubricate and wake up your body so that it is ready to operate at peak efficiency and the BEST part about them is that they <strong>only take 40 seconds to complete</strong>.</p>
+<p>This is the second principle of the 6 Minute Performance Formula and a key aspect in getting your body to perform at its best.<br />
+<!-- PEAK PERFORMANCE SECRET 2 ENDS HERE --></p>
+<p><!-- PEAK PERFORMANCE SECRET 3 STARTS HERE --></p>
+<div class="vwo_1369627655376 vwo_1369648097906" style="font-weight: bold; font-size: 24px; color: #2e6ffd; text-align: center;"><span style="text-decoration: underline;"><span style="color: #0000ff; text-decoration: underline;">Peak Performance Secret #3</span></span><br />
+<span style="color: #0000ff;"> Dynamic Mobility Exercises</span></div>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/026_TopSecretThree.png" /></div>
+<p>This is the third and FINAL principle of the Peak Performance Formula.</p>
+<p>Dynamic Mobility exercises are short stretches and muscle activation techniques where the main function is to <span style="text-decoration: underline;">give your body <strong>full range of motion</strong></span> as well as <strong>activate</strong> the muscles that have become dormant due to the &#8216;sitting&#8217;?  nature of today&#8217;s workplace.</p>
+<p>Dynamic Mobility exercises are, and should be, an ESSENTIAL part of your workout program and, simply put, they allow your joints move freely.</p>
+<p>Their function is to repair and regenerate parts of your body including the cartilage. They do this by increasing your mobility through repair of your joints so you can have the range of motion you were meant to have.</p>
+<p>MOST importantly Dynamic Mobility exercises help slow, and in most cases, <strong>REVERSE the aging of your joints</strong> through the transport of detoxifying synovial fluids into your the key areas of your body.</p>
+<p>You especially NEED to do the full body Dynamic Mobility drills <span style="text-decoration: underline;">BEFORE your workouts and sports</span> because the short stretches give your body maximum range of motion, which will give your body the best peak performance to work in.</p>
+<p>Dynamic mobility essentially improves the way you move throughout life. I cannot stress enough how much better mobility equates to strength and success in any physical activity you do.</p>
+<p>If you intend on being active throughout life then you NEED to apply these exercises to your body.<br />
+<!-- PEAK PERFORMANCE SECRET 3 ENDS HERE --><br />
+<!-- PEAK PERFORMANCE SECRET ENDS HERE --><br />
+<!-- WHAT YOU MUST KNOW ABOUT YOUR BODY STARTS HERE --></p>
+<div style="font-size: 24px; font-weight: bold;">What You Must Know About Your Body</div>
+<p>Most of the time your pain and <em>declining performance</em> are written off as a part of &#8216;growing old&#8217;?  but, in reality, its just your body being thrown out of balance by your job and constantly committing these workout sins on a regular basis.</p>
+<p>Avoiding these shocking sins and applying the <em><strong>Peak Performance Principles</strong></em> will ultimately determine how your body performs today and 10 years from now.</p>
+<p>And it all comes down to the one <em><strong>Peak Performance Formula</strong></em> that has been withheld from you all this time<br />
+<!-- WHAT YOU MUST KNOW ABOUT YOUR BODY ENDS HERE --><br />
+<!-- PUTTING IT ALL TOGETHER STARTS HERE --></p>
+<div style="font-size: 24px; font-weight: bold;">Putting It Altogether &#8216; The Peak Performance Formula</div>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/027_PuttingAllTogether.png" /></div>
+<p>For this we begin with a research study showing the power of doing a 6 Minute Superhuman style program on their bodies before an actual workout.</p>
+<p>In the study published in the Journal of Strength &amp; Conditioning Research: <b>(Volume 22 &#8216; Issue 4 &#8216; pp 1286-1297</b>) had 24 NCAA Division 1 wrestlers randomly assigned either a four week 6 Minute Superhuman program or a static stretching program prior to preseason practices</p>
+<p>The study was done to determine whether a 6 Minute Superhuman program performed over 4 weeks positively influenced power, speed, agility, endurance, flexibility and strength compared to static stretching or no warm up at all.</p>
+<p><b>Group 1 </b>did a 6 Minute Superhuman style program before their workout.</p>
+<p><b>Group 2</b> did static stretching before their workout.</p>
+<p><b>Group 3 </b>did nothing.</p>
+<p>The performance measures were done through a time period of 4 weeks.</p>
+<p>Before starting the study they were tested on peak torque of quads, hamstrings, med ball underhand throw, 300 yard shuttle, pull ups, pushups, sit-ups, broad jump, 600m run, sit and reach test, and a trunk extension test.</p>
+<p>After the 4 weeks the researchers found <span style="text-decoration: underline;">no differences</span> in performance for the no warm up group but the findings were MORE interesting for the static stretching group. They found that their performance actually got WORSE throughout the 4 week study.</p>
+<p><b>As for the 6 Minute Superhuman (6MS) group</b></p>
+<p>Wrestlers doing the 4 week <b>6MS program saw improvements across the board</b> in all aspects of performance including:</p>
+<p>&#8211; Increase in quad peak torque (+11%)</p>
+<p>&#8211; Increase Broad jump (+4%)</p>
+<p>&#8211; Increase in sit-ups (+11%)</p>
+<p>&#8211; Increase in pushups (+3%),</p>
+<p>and <span style="text-decoration: underline;">FASTER</span> sprint times for the 300m shuttle and the 600m run.</p>
+<p>They <b>conclusively</b> found that the 6 Minute Superhuman type workouts significantly ENHANCED muscular strength, endurance, flexibility, agility and anaerobic capacity.</p>
+<p>In other words, the program made them BETTER athletes all around.</p>
+<p>In a second study done from our friends at the <b>Oslo Sports Trauma Research Centre</b> in beautiful Norway, a team lead by Professor T. Soligaard discovered that there was one specific set of exercises that <i>almost</i> made their athletes <span style="text-decoration: underline;">completely impervious</span> to injuries.</p>
+<p>The study was done using 125 football clubs (soccer for us North Americans) from all over Norway with over 264 participants that were followed over the course of a year.</p>
+<p>They used a comprehensive 6 Minute Superhuman style workout program vs. a static stretching program to test their strength, awareness, and neuromuscular control prior to practices and games.</p>
+<table border="0" align="center">
+<tbody>
+<tr>
+<td><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-program-guide.jpg" width="250" border="0" /></td>
+<td>
+<p style="font-size: 32px;" align="center"><b>VS</b></p>
+</td>
+<td><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/stretch.png" width="400" border="0" /></td>
+</tr>
+</tbody>
+</table>
+<p>Quite frankly, the results were INCREDIBLE.</p>
+<p>Despite playing a full season of professional football games with 5 day a week practices, the group using 6 Minute Superhuman style exercises had <b>47% LESS injuries (overuse and severe) than the static stretching group</b>.</p>
+<p>In fact, one subject named Marie who was always known for being injury-prone and was constantly on the recovery table throughout her previous football seasons.</p>
+<p>But after doing the 6MS style exercises she experienced her BEST year ever as a professional football player and didn&#8217;t incur an injury at all in during the year of the study.</p>
+<p>She was quoted as saying at the end of the study,</p>
+<p>&#8216;<i>At first I thought these exercises were weird and slightly silly but now after doing them I am a believer. The exercises give me the confidence to do what I wanted to on the field without the fear of getting injured. </i></p>
+<p><i>I haven&#8217;t felt this confident in my body in a long time. These (the 6MS exercises) have helped me so much that they&#8217;re always going to be a part of my life</i>.&#8217;? </p>
+<p>So Marie used these exercises to be a star player on her team while completely <b><i>bulletproofing her bod</i>y</b> in the process. And so can YOU. With the Peak Performance Formula you can live in an athletic body that works even better than it does at this very moment.</p>
+<p>Do you see the secret yet?</p>
+<p>If not, don&#8217;t worry.</p>
+<p>And no, it definitely doesn&#8217;t have anything to do with expensive workout equipment, illegal drugs or useless supplements.</p>
+<p>To reveal a little more about the secret, we need to look at this last eye-opening study published in the American Journal of Physiology.</p>
+<p>Researchers from the University of Strathclyde Glasgow tested a 6-Minute-Superhuman style program and its effect on the bodies energy levels during high intense exercise. (<b>Am J Physiol Regul Integr Comp Physiol 279:R899-R906, 2000</b>.)</p>
+<p>Six female subjects performed a 30 second sprint at 120% of their max power output on a stationary bicycle exactly five minutes after using a 6MS style exercise program.</p>
+<p>The results?</p>
+<div class="roundbox">The research showed that they actually found that the body used up <i>less</i> energy during exercise after performing the five minute 6MS program. Even more interesting was that it was suggested that doing the 6MS program before the workout slightly gave an increase to their metabolisms.</div>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/028_All6Subjects.png" /></div>
+<p>This groundbreaking group of scientists were able to help <b>all 6 subjects increase their energy levels</b> as well as help them experience a slight increase in their metabolisms..</p>
+<p>in ONLY 5 minutes.</p>
+<p>And that&#8217;s why all of our workouts take less than 6 minutes to complete. You don&#8217;t need to do anything complicated or comprehensive. If you have 6 minutes or less to spare then you&#8217;re guaranteed to get amazing results.</p>
+<p>No matter what age you are, with this particular formula you can be stronger, faster, more flexible, have more endurance, more energy and more confidence in your body than you ever had.</p>
+<p>So what was the secret to the success in all of these studies?</p>
+<p>Well it was the <span style="text-decoration: underline;">Peak Performance Formula at work!</span></p>
+<p style="font-size: 24px;">You Deserve So Much More Than a Life of Age Related Pain, Limited Mobility and Lack Of Energy, Don&#8217;t You?</p>
+<p><span style="text-decoration: underline;">The fact is this: </span> You don&#8217;t&#8217; have to be like the 99% of the population who blame all of their pain and limited strength to &#8216;aging&#8217;? .</p>
+<p>Because just by reading this article you must realize that you can reverse the aging process and become a peak performing human being regardless if you are old age, middle aged or even a teenager.</p>
+<p>You can become STRONGER.</p>
+<p>You can become FASTER.</p>
+<p>You can gain MORE ENERGY and live in a body that feels BETTER than it did in your college or even high school days.</p>
+<p>All it takes is a very simple exercise formula and a decision to no longer settle for things as they are. You deserve better and you know this. But you need a plan. You need a <b>blueprint</b> to show you the way to your ultimate peak performing body.</p>
+<p>That&#8217;s the reason I&#8217;m here. If you&#8217;ll let me, I&#8217;ll be your coach to the greatest body and vitality you could ever have imagined by giving you the keys to the Peak Performance Secret.<br />
+<!-- PUTTING IT ALL TOGETHER ENDS HERE --><br />
+<!-- THE PEAK PERFORMANCE FORMULA REVEALED --></p>
+<p style="font-size: 32px; font-weight: bold;" align="center">The Peak Performance Formula REVEALED</p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/29_PeakPerformanceRevealed.png" /></div>
+<p>Using this formula, you will finally</p>
+<p><b style="color: #990000;">Enhance your strength, speed, power, stamina and endless amounts of energy while completely bulletproofing your body from injuries forever..in under 6 minutes.</b></p>
+<p>&#8216;<i>C&#8217;mon Dan&#8217;? , you must be thinking, &#8216;There is no way I can achieve all of that in under 6 minutes and actually get results</i>&#8216;? </p>
+<p>Hey I understand your skepticism. Even when I read the research studies from those respected scientists there was still a part of me that had its doubts.</p>
+<p>And I&#8217;m probably sure that we&#8217;ve seen our fair share of fitness fads come and go. Plus, after going through the battle with my own body I was pretty skeptical and had to be critical of every &#8216;workout fad&#8217;?  that came into my path.</p>
+<p>There was only one way to find out if this Peak Performance Formula worked for people other than myself, and that was to put them to the test on my own clients. The findings of these tests?</p>
+<p>Well, it&#8217;s safe to say that it&#8217;s now a PROVEN FACT that this simple 6 minute sequence works so well that it MUST become a staple in your program. If you don&#8217;t utilize it it&#8217;s like giving you the keys to a new Ferrari and not even bothering to drive it.</p>
+<p>You&#8217;ll feel BETTER than ever and your body will become an athletic machine from the very short 6 Minute Superhuman workouts because you&#8217;ll harness the power of the Peak Performance Formula, and this involves taking your body to the next level with the simple and fast <b><span style="text-decoration: underline;">3 Step Sequence of</span></b><span style="text-decoration: underline;">:</span></p>
+<p><b>Step 1</b> &#8216; Self Myofascial Release (2 minutes)</p>
+<p><b>Step 2</b> &#8216; Neuromuscular Activation (40 seconds)</p>
+<p><b>Step 3</b> &#8216; Dynamic Mobility (3-4 minutes)</p>
+<p>You see, the 3 step sequence of Self Myofascial Release, Neuromuscular Activation and Dynamic Mobility is your perfect <b>Peak Performance Formula</b>.</p>
+<p>It&#8217;s about priming yourself in a way that brings your body back into balance in the LEAST amount of timenot just by applying the 3 step sequence but doing it in a way that saves you time that also <b>super charges</b> your performance</p>
+<p>It&#8217;s like having a super fast sports car with a nitrous injector on the engine. You press a button and INSTANTLY get an extra 100 Horsepower whenever you need it.</p>
+<p>Hundreds of research subjects and only a handful of men and women in the REAL world have felt the age-reversing and performance enhancing effects this simple sequence.</p>
+<p>The old sins of working out just do not make sense anymore in today&#8217;s world and if you keep on doing them you might as well not even bother hitting the gym.</p>
+<p style="font-size: 24px;" align="center">The 6 Minute Performance Formula Of:<br />
+Self Myofascial Release + NMA&#8217;s + Dynamic Mobility<br />
+= Your Best Results EVER</p>
+<p>And the power of this Peak Performance Formula can be explained by science. As you saw through the research, doing these 3 steps lead to actual <span style="text-decoration: underline;">biomechanical</span> and <span style="text-decoration: underline;">metabolic</span> <span style="text-decoration: underline;">changes</span>.</p>
+<p>These changes in your body are actual things you can feel and measure in your body INSTANTLY.</p>
+<p>It doesn&#8217;t matter if you choose to do them in the morning, afternoon or before your workouts. Right after applying 6MS to your body you&#8217;ll immediately feel the increased freedom of movement, strength, speed and stamina right away.</p>
+<p>The 6 Minute Superhuman system increases your performance by healing the old adhesions and dysfunctions in the muscles and giving you quality fascial tissue to work with, it wakes up your body&#8217;s nervous system, and uses Dynamic Mobility drills to activate your dormant muscles and give you better range of motion.</p>
+<p>Now, as opposed to most &#8216;fitness experts&#8217;?  I actually own a gym with hundreds of REAL clients where I can test out these theories on an every day basis.</p>
+<p>Since opening up my doors in 2006 I&#8217;ve worked with thousands of clients online and through my gym and put them through years of &#8216;beta testing&#8217;?  to figure out the <span style="text-decoration: underline;">perfect performance formula</span>.</p>
+<p>These beta tests, combined with 8 years of personal training experience in the 6 Minute Superhuman system have given me practical knowledge of how effective this system isand that&#8217;s why I&#8217;m sharing it with you.</p>
+<p><i style="color: #990000;">The reason it only takes 6 minutes is because throughout the years I&#8217;ve honed in the system to be more faster and effective at healing your body moreso than a 30 minute massage and getting your body into optimal performing shape BETTER than your local sports therapist.</i></p>
+<p class="vwo_1369453497223 vwo_1369648093348">The <strong>Two Minute Self Myofascial Release</strong> portion of 6MS immediately <span class="vwo_1369648093433" style="text-decoration: underline;">REPAIRS</span> your damaged muscles, REMOVES all adhesions in your muscles that stop it from contracting efficiently AND gives you muscles that fire off at its FULL potential.</p>
+<p class="vwo_1369453568060 vwo_1369648093391">The <strong>40 second Neuromuscular Activators</strong> <span class="vwo_1369453490209" style="text-decoration: underline;">WAKE UP</span> your body&#8217;s nervous system and keeps your body pliable by releasing synovial fluid into your body</p>
+<p class="vwo_1369453465510 vwo_1369648093473">T<strong>he Dynamic Mobility exercises</strong> <span style="text-decoration: underline;">activate</span> your dormant muscles while efficiently using short burst stretches to bring your body&#8217;s range of motion back to its TRUE potential.</p>
+<p>A body that always performs at its best with a full tank of energy means BETTER results in the gym and INCREASED confidence in yourself than ever before.</p>
+<p>Just imagine what it would feel like to be more physically capable than you are right now? How would you feel with that extra boost in performance, a pain free body and energy levels that go through the roof?</p>
+<p>You see, that&#8217;s the POWER of the 6 Minute Superhuman system, with its 6 Minute workouts, Self Myofascial Techniques, your 6MS style exercises, Neuromuscular Activation exercises and 6MS specialization workouts.</p>
+<p>All of these come together to deliver the Ultimate Peak Performance Formula and your <b>best body and best life ever.</b></p>
+<p>This system is THAT powerful and it will be the difference maker in helping you CRUSH any physical limitations you might be struggling with. You can do it anywhere you want, it doesn&#8217;t require you to ingest expensive drugs or illegal injections and the BEST part is</p>
+<p>It takes under 6 minutes to complete.</p>
+<p>Welcome to the secret of ENHANCED Performance.</p>
+<p>Welcome to your Ultimate Peak Potential.</p>
+<p>Now let&#8217;s get you into your Peak Performance Potential with the power of the <b>3 Step Sequence &#8216; The Peak Performance Formula.</b><br />
+<!-- PEAK PERFORMANCE REVEALED ENDS HERE --><br />
+<!-- TESTIMONIALS START HERE --></p>
+<p style="font-size: 24px; color: #990000;"><b class="vwo_1369453750392 vwo_1369648093515">Read What These Folks Achieved When They Added The Peak Performance Formula into Their Workouts:</b></p>
+<div class="testimonial">
+<p class="vwo_1369459244431 vwo_1369648094121"><img class="alignleft" style="border: 8px solid #222423;" alt="baseball" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/baseball.jpg" width="318" /><br />
+<em> <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> </em>Prior to your the 6 Minute Superhuman routine, I&#8217;d often fail to complete a proper warm up. I knew what to do and I&#8217;d do a few dynamic movements, but I always told myself I didn&#8217;t have enough time.</p>
+<p class="vwo_1369452212611 vwo_1369452213321 vwo_1369452213654 vwo_1369452221489  vwo_1369452222596 vwo_1369452233881 vwo_1369452239803      vwo_group_1369648094121_0">I was so tight that they would pop, or the tendon would incorrectly glide through.</p>
+<p class="vwo_1369452212611 vwo_1369452213321 vwo_1369452213654 vwo_1369452221489  vwo_1369452222596 vwo_1369452233881 vwo_1369452239803     _0 vwo_group_group_1369648094121_0_0">After the Self Myofascial Release portion and dynamic mobility moves, that all went away! I feel perfect now, which is important as a center fielder; I need my hip mobility.</p>
+<p><span class="vwo_1369452247381 vwo_1369648092962" style="color: #800000;"><em><span style="font-size: medium;"><b>My body feels great and I even scored a 290/300 on my physical fitness test (past results were 260/300)</b></span></em></span></p>
+<p>Your workout is only as strong as your weakest link. If you aren&#8217;t using the 6 Minute Superhuman system, then your workout will be the equivalent of trying to drive your car with the e-brake on.</p>
+<div style="text-align: right;"><strong>Victor Kizer</strong> <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<div class="testimonial">
+<p><img class="size-full wp-image-891 alignleft" alt="barron-lau" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/barron-lau.png" width="300" height="300" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/barron-lau.png 300w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/barron-lau-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /><br />
+<img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> <span class="vwo_1369452287331 vwo_1369648092980">I have always generally been quite active and healthy, working out fairly consistently and maintaining a healthy diet. I&#8217;ve always had a lot of knowledge about training and nutrition as well.</span></p>
+<p class="vwo_1369648098340">I could never get my body to drastically change in order to meet my goals until Dan Go introduced me, what I now believe, a more advanced level of training and performance with the introduction of his 6 Minute Superhuman system.</p>
+<p>I believe there is a lot of general information on exercise widely available on the market.</p>
+<p>But the information out there is the &#8216;for dummies&#8217;?  version which if followed is a general mass market health plan and very old school .</p>
+<p><span class="vwo_1369452462317 vwo_1369648093000" style="font-size: medium; color: #800000;"><em class="vwo_1369459244095 vwo_1369648094222"><b>Dan Go&#8217;s nutrition and training concepts are on a completely different advanced level, the new school way of thinking.</b></em></span></p>
+<p>Dan Go&#8217;s plans produce immediate results in a way that can be integrated into a realistic lifestyle which allows you to actually sculpt your body to any degree you wish no matter how general or very ambitious your goals.</p>
+<p>Thanks DAN!</p>
+<div style="text-align: right;"><strong>Barron Lau &#8216; CEO of Round 5 UFC Collectibles</strong> <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<div class="testimonial">
+<p><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> <span class="vwo_1369452576174 vwo_1369648093020">My workouts prior to using the 6MS system always took a little to get going. i had age related pain in pretty much everything that bends and it always took some time for that to go.</span></p>
+<p><span class="vwo_1369452584015 vwo_1369648093040">After performing the 6MS my workouts were fully productive, no time spent getting &#8216;comfortable&#8217;. six minutes up front to make the back end 40 more productive!</span></p>
+<p class="vwo_1369459244544 vwo_1369648094320"><span style="font-size: medium; color: #800000;"><em><strong>If you are on the fence about the program do it! The self massage is a revelation and getting the old body going will make the rest of your workout more productive.</strong></em></span></p>
+<p class="vwo_group_1369648094320_0"><span style="font-size: medium; color: #800000;"><em><strong>Six minutes well worth spending.</strong></em></span></p>
+<p style="text-align: right;"><strong>Gareth Peck</strong> <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></p>
+</div>
+<div class="testimonial">
+<p><img class="alignnone size-full wp-image-766" style="padding: 0 10px 10px 0;" alt="Teresa" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/2679_1132214505953_3109998_n.jpg" width="334" height="355" align="left" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/2679_1132214505953_3109998_n.jpg 334w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/2679_1132214505953_3109998_n-282x300.jpg 282w" sizes="(max-width: 334px) 100vw, 334px" /><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /></p>
+<p class="vwo_1369452720540 vwo_1369648093068">Before doing 6MS I struggled to complete some aspects of my workouts. I either had to rest or do an easier version of some exercises.</p>
+<p class="vwo_group_1369648093068_0">I often felt my muscles were weak, sore and shaky for a day or two making it difficult for me to exercise at the intensity level I desired. I experienced pain in my knees on numerous occasions when doing exercises like lunges or squats.</p>
+<p class="vwo_1369452735334 vwo_1369648093091"><span class="vwo_1369452750779 vwo_1369648093126">After I started the 6 Minute Superhuman system I found that I recovered a lot faster from muscle soreness and didn&#8217;t feel so depleted.</span></p>
+<p class="vwo_group_1369648093091_0"><b class="vwo_1369452758897 vwo_1369648093165">My knee pain was gone or greatly diminished.</b><span class="vwo_group_1369648093165_0"> I was also able to finish my workouts without resting and noticed I was working slightly different muscles due, I believe, to being able to have better form and use a</span><i class="vwo_group_1369648093165_1"> <span style="text-decoration: underline;">fuller range of motion</span>.</i></p>
+<p><b><strong class="vwo_1369452768479 vwo_1369648093207">With the 6MS system I noticed a difference. First it is short making it easy to implement but more importantly the pain in my knees was reduced or completely gone and I was able to complete each exercise in my workouts with better form and intensity.</strong></b></p>
+<p class="vwo_1369452781399 vwo_1369648093248">This program also made me a believer in the self massage techniques. I have always heard how great a massage is but had never experienced it myself until I started using this.</p>
+<p class="vwo_group_1369648093248_0">It has become my favorite part of the routine and I believe it contributes greatly to the success of the program. The 6 Minute Superhuman system is definitely something I will continue to use before my workouts.</p>
+<div style="text-align: right;"><strong>Teresa Chipman</strong> <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<p>And this was made all possible using the specific 3 Step Sequence that incorporates the Peak Performance Formula that you will NOT find at your local gym or even in fitness magazines.<br />
+<!-- TESTIMONIALS END HERE --></p>
+<p><!-- DOES IT REALLY TAKE JUST SIX MINUTES STARTS HERE --></p>
+<p style="font-size: 32px; color: #990000;" align="center"><b>Does It Really Take &#8216;Just&#8217;?  Six Minutes?</b></p>
+<p>Now you might be thinking, &#8216;<i>C&#8217;mon Dan you can&#8217;t really think that I&#8217;d believe a simple six minute workout can help do all of that. What&#8217; so special about YOUR program?</i>&#8216;? </p>
+<p>I&#8217;m glad you asked it. After all, I&#8217;ve personally helped hundreds of clients in my gym and thousands of people online internationally use my programs to finally get into the bodies of their dreams while feeling fantastic.</p>
+<p>They&#8217;ve gotten incredible results, looked younger, and even felt stronger using my proven workouts systems after trying dozens of other programs.</p>
+<p>After helping thousands of men and women transform their bodies and their lives there can be no denying the power of this proven performance program.</p>
+<div class="testimonial"><img class="alignleft" alt="yeeshin" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/yeeshin.jpg" width="328" /><br />
+<img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> <span class="vwo_1369452819002 vwo_1369648093292">Before doing 6MS I was doing 2-3 Boot camp classes per week. Only casually stretched and did no massages before.</span></p>
+<p class="vwo_1369453420722 vwo_1369648093560">After doing the 6MS routine, my muscles aren&#8217;t as tight during and after the workouts. They aren&#8217;t as fatigued, which is what has helped me attend a minimum of 5 boot camp classes per week for our transformation program.</p>
+<p class="vwo_group_1369648093560_0">I am sure that the classes alone have helped me drop the weight and build some muscle, but I believe that using the 6 minute superhuman routine has definitely helped.</p>
+<p class="vwo_1369453420741 vwo_1369648093606">The dynamic mobility drills prepare my muscles for whatever routine each class brings. I actually have some muscles now, as small as they are.</p>
+<p><span class="vwo_1369453420759 vwo_1369648093653">Make sure you do it! It will elevate your body to a higher level. It is beneficial in many ways.</span></p>
+<div style="text-align: right;"><strong>Yeeshin Loh</strong> <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+<div style="clear: both;"></div>
+</div>
+<div class="testimonial">
+<div style="font-size: 18px; color: #990000;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> You solved one of my major problems</div>
+<p>Hey! Just wanted to say thanks sooo much for the 6 Minute Superhuman program. I had never really known how to properly start a workout so this was an incredible help. Also, today you solved one of my major problems. I&#8217;ve always had a bit of lower back stiffness but your lacrosse ball massages did the trick! Thanks so much for the videos they are making it sooo much easier for me to learn and use the program on my body!</p>
+<div style="text-align: right; font-weight: bold;">John Yung <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<div class="testimonial">
+<div style="font-size: 18px; color: #990000;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> Your workouts gave me back my life</div>
+<p>&#8216;Short burst stretches has opened my mind up to a better way of getting ready for my workouts. I have more energy, feel better, and no longer suffer from the nagging pain in my shoulders. Your workouts gave me back my life&#8217;? </p>
+<div style="text-align: right; font-weight: bold;">Sina Zohgi<img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<div class="testimonial">
+<div style="font-size: 18px; color: #990000;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> Your system are the perfect way to my workouts</div>
+<p>I purchased 6 Minute Superhuman and am using it at the beginning of my main workouts; so far I am working through the week 1 sequence and am enjoying them. It&#8217;s pretty weird how good I feel right after doing it. One of my favorite exercises is the forward lunge and instep. I also love using them before my mma workout (I practicse brazillian jiu jitsu and kickboxing). It just feels great and I can&#8217;t believe I haven&#8217;t been using this this whole time.</p>
+<div style="text-align: right; font-weight: bold;">Mike Perryman <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<div class="testimonial">
+<div style="font-size: 18px; color: #990000;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> I do these right before my circuit training workouts</div>
+<p>I can remember thinking at the time that the workouts didn&#8217;t look very hard and I wondered whether they would even work. Anyway I decided to try them and I can&#8217;t believe how effective they are. What I love about them is that they are intense and they get me primed and ready for my circuit training workouts P.S. Many people attending the gym I go to are doing the same old traditional warm ups, particularly the females (jogging and stretching). I actually feel sorry for them because I&#8217;ve been there and done that &amp; it wasn&#8217;t very effective. Now I have 6 Minute Superhuman and it makes a big difference.&#8217;? </p>
+<div style="text-align: right; font-weight: bold;">Tracy Ho <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<p><!-- DOES IT REALLY TAKE JUST SIX MINUTES ENDS HERE --></p>
+<p><!-- WHAT IF THESE 6 MINUTE WORKOUTS DON'T WORK FOR ME STARTS HERE --></p>
+<p style="font-size: 32px; color: #990000;" align="center"><b>What if These 6 Minute Workouts<br />
+Don&#8217;t Work for Me?</b></p>
+<p>Unfortunately, 99% of the workout programs you see on the market today FAIL to incorporate the <b>Peak Performance Formula</b>.</p>
+<p>This is the #1 reason why you do their workouts and either don&#8217;t get results (because your body doesn&#8217;t function properly) or you are simply left in pain after every session due to not applying any of the peak performance principles.</p>
+<p>Even IF you got results from your program (and that&#8217;s a big IF) then you&#8217;d still be left wit a body that is weak and lacks energy. And I think we can all agree that there is no point to &#8216;looking&#8217;?  good if you end up feeling like crap.</p>
+<p>But when you regularly use the <b>Peak Performance Formula </b>you&#8217;ll unlock your body&#8217;s true potential and have it operating at its best, FULL of energy without any pain whatsoever.</p>
+<p>This formula is the one critical element missing from every single one of the workout programs out there.<br />
+<!-- WHAT IF THESE 6 MINUTE WORKOUTS DON'T WORK FOR ME ENDS HERE --></p>
+<p><!-- DO YOU HAVE 6 MINUTES TO SPARE STARTS HERE --></p>
+<p style="font-size: 32px; color: #990000;" align="center"><b><span style="text-decoration: underline;">Do You Have 6 Minutes to Spare?</span></b></p>
+<p>How long does it take you to brush your teeth?</p>
+<p>How long does it take to choose an outfit for work and get changed?</p>
+<p>How long does it take to stand in line at Starbucks and get a coffee?</p>
+<p>I&#8217;m going to take a guess and say that they all take AT LEAST 6 minutes or MORE.</p>
+<p>In the 6 Minute Superhuman program, you&#8217;re going to get rid of all of those nagging pains hampering your body every day and prevent new ones from happening without any trips to your doctor or chiropractor.</p>
+<p>You&#8217;ll reach your ultimate potential of strength, speed, and flexibility without the use of expensive supplements or dangerous (and illegal) injections.</p>
+<p>Your body will be completely enhanced in every physical way possible with the natural boost these workouts deliver. These workouts won&#8217;t leave you feeling broken or drained like most high volume training programs out there.</p>
+<p>Instead, you&#8217;ll find an increase in your energy whether you working out in the gym, playing with your kid or even fooling around with your spouse &#8216; <i>all day</i> and <i>all nigh</i>t long. With these new increases in energy you&#8217;ll be up for anything life puts in your way.<br />
+<!-- DO YOU HAVE 6 MINUTES TO SPARE ENDS HERE --><br />
+<!-- THE TRUTH IS --></p>
+<p style="font-size: 32px; color: #990000;" align="center"><b>The Truth Is.</b></p>
+<p>This is the only program of its kind being offered of its kind. The other TRUTH is that most &#8216;fitness experts&#8217;?  and &#8216;personal trainers&#8217;?  have no idea about these types of workouts.</p>
+<p style="font-size: 24px;"><b>The saddest thing about most workout programs is that they are using workout systems that are meant to break the body down and yet ignore the advantage of the Peak Performance Formula.</b></p>
+<p>There is even one popular circuit training workout (name withheld) spreading worldwide that is giving Chiropractors and Physiotherapists BIG business due to the intense nature of their workouts and lack of attention on using the Peak Performance Formula.</p>
+<p>As a matter of fact, I know a doctor in Orange County that ONLY treats this franchises clients injuries and he is booked SOLID.</p>
+<p>He once told one me that he wouldn&#8217;t have half of his business if that program (name of popular circuit training program) didn&#8217;t get as popular as it is today.</p>
+<p>What&#8217;s even sadder is that pain is accepted across the board with all of their clients. They *think* they are working out to be elite athletes but 99% of them end up with broken bodies as result.</p>
+<p>The bottom line is that if you can&#8217;t avoid sitting and if you still intend on being active then the Peak Performance Formula MUST be an essential part of your life.</p>
+<p style="font-size: 24px; color: #990000;"><b>Life is Way Too Short to Try And Learn This On Your Own Through Trial And Error. Why Not Learn From My Mistakes?</b></p>
+<div style="float: left;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/030_PullUps.png" /></div>
+<p>Look, by now you know that sitting affects our performance in every aspect of life and unless you intend on quitting your job, staying away from browsing the internet or never watching TVsitting cannot be avoided.</p>
+<p>You also know that if you intend to be active in life, whether it be in the gym, playing sports or playing with your kids you&#8217;ll need apply the Peak Performance Formula to keep up with those demands on your body and maintain high energy levels.</p>
+<p>But there&#8217;s still <span style="text-decoration: underline;">one more truth </span>to make the case for applying the techniques of the <b>Peak Performance Formula</b> and here it is</p>
+<p>Why go through years of trial and error when you can &#8216; in a matter of minutes &#8216; read this manual (or watch the follow along videos) and master the performance secrets known by less than 1% of the population?</p>
+<p>You&#8217;ll then parlay this newfound knowledge your newfound skills into a finely tuned body, endless energy and a pain free life in a matter of a few short weeks.</p>
+<p>This is EXACTLY the kind of inner circle information I wish I had 8 years ago when I was just getting started.</p>
+<p>Learning even one or two of steps of the Peak Performance Formula would have let me avoid the year of frustration and doubt I had about my body. This is information that most people NEVER discover by trying to do it on their own.<br />
+<!-- THE TRUTH IS ENDS HERE --></p>
+<p><!-- HOW MUCH WOULD IT COST TO HIRE... STARTS HERE --></p>
+<p style="font-size: 24px;" align="center"><b>How Much Would it Cost to Hire a Trainer</b><br />
+<b>That DOESN&#8217;T Know the Peak Performance Formula?</b></p>
+<div style="float: right;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/031_video.png" /></div>
+<p>What would you say the going rate for a trainer in your area runs for? $45 per session? $65? $100 for 45 minutes?</p>
+<p>Back when I was training clients in my small town of Markham, a single personal training session with a brand new trainer started at $60 a session and this is with someone who just took a weekend course to get certified.</p>
+<p>So for far a fraction of the cost of a single session with a ROOKIE personal trainer (that hasn&#8217;t got any clue about the Peak Performance Secret), you&#8217;ll get the scientifically PROVEN 6 Minute Superhuman System that will last you for your entire life.</p>
+<p>Plus the 6 Minute Superhuman program delivers support and holds you by the hand (through the follow along videos) so you can increase your performance and finally turn back the clock on your body in the time it takes to get a coffee at your local Starbucks.</p>
+<p>If you were to pay an unproven trainer $60 a session for 18 workouts (6 weeks x 3 sessions a week), you would invest over $1080 . And they would probably leave you worse for wear after they were done with you. To top it all off they wouldn&#8217;t even guarantee their results.<br />
+<!-- HOW MUCH WOULD IT COST TO HIRE... ENDS HERE --></p>
+<p><!-- I WILL TAKE YOU BY THE HAND... STARTS HERE --></p>
+<p class="vwo_1369453974941 vwo_1369648093705" style="font-size: 24px;" align="center"><b>I Will Take You By The Hand And Teach You The Proven</b><br />
+<b>Techniques Of the Strongest, Healthiest, and Most Energetic People on</b> <b>Earth Cutting Edge Information </b><b>&#8216;Straight From the Trenches&#8217;? </b></p>
+<p>These are not theories written by some science geek in a white lab coat who has never worked with a client in real life. I practice what I preach and use this system myself.</p>
+<p>I currently exercise at least 1-2 hours per day 7 days a week, and I need to be following the proper type of workout plan to maximize my performance and reduce my recovery time.</p>
+<p>But the real beauty about this is that I have applied this Peak Performance Formula with countless other people from all walks of life to help them boost their athleticism, skyrocket their energy, and dramatically improve their health and quality of life!</p>
+<p>Does it make sense to listen to the &#8216;armchair experts&#8217;?  who ramble endlessly about their theories while they&#8217;re secretly living with broken down bodies?</p>
+<p>It&#8217;s just not worth it. Not when you have the Peak Performance Formula at your disposal in the comfort of your own home.<br />
+<!-- I WILL TAKE YOU BY THE HAND... ENDS HERE --><br />
+<!-- WHAT YOU GET IN 6 MINUTES... STARTS HERE --></p>
+<p style="font-size: 32px; text-align: center;"><b>In the 6 Minute Superhuman System, You&#8217;ll Get:</b></p>
+<div style="border: 5px solid #CCC; padding: 20px;">
+<p><img class="aligncenter" alt="Bundle" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/Bundle.png" width="650" /></p>
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+<table>
+<tbody>
+<tr>
+<td align="center" width="220"><img class="aligncenter size-full wp-image-187" alt="ecover-6-minute" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-6-minute.jpg" width="200" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-6-minute.jpg 244w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-6-minute-224x300.jpg 224w" sizes="(max-width: 244px) 100vw, 244px" /></td>
+<td>
+<h2 style="color: #990000;">Component 1: Six Weeks of 6 Minute Superhuman Workouts You Can Follow Along With ($197 Value)</h2>
+<p>In only 6 MInutes or less you&#8217;ll get in your increase your strengths, speed, flexibility and energy using the proven Peak Performance Formula. Every single week we will progress in the program together and each week you&#8217;ll get brand new workouts that build upon the last. Not only that, but you&#8217;ll be going through each exercise and workout under the instruction of yours truly &#8216; and doing many of the workouts along with me and my 6MS workout partner. It&#8217;s like having your very own 6 Minute Superhuman team at your disposal to train with anywhere you want whether it be at home or in the gym. The workouts can be watched on your computer, iPad, iPod or iPhone, for an amazing 6MS workout available right at your finger tips.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter size-full wp-image-177" alt="ecover-program-guide" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-program-guide.jpg" width="200" /></td>
+<td>
+<h2 style="color: #990000;">Component 2: The 6 Minute Superhuman Program Guide ($197 Value)</h2>
+<p>Not only will you have 6 weeks worth of progress-based follow along videos, but you&#8217;ll also receive our guide that will take you by the hand and show you exactly what workouts to use and when the perfect time would be to use them. It doesn&#8217;t get any more easier than this. All you have to do is press play and become an enhanced human being.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter size-full wp-image-186" alt="ecover-self" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-self.jpg" width="200" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-self.jpg 380w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-self-300x262.jpg 300w" sizes="(max-width: 380px) 100vw, 380px" /></td>
+<td>
+<h2 style="color: #990000;">Component 3: The Self Myofascial Release Exercise Videos ($97 Value)</h2>
+<p>You&#8217;ll get 3 more follow along videos where you&#8217;ll discover EXACTLY how to apply the first principle of the Peak Performance Formula in Self Myofascial Release to decrease your pain, bulletproof your body from injuries and increase your body&#8217;s natural physical potential. You&#8217;ll discover the power of two inexpensive massage tools that are used every day by high level athletes to keep their body&#8217;s in top physical shape.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter size-full wp-image-185" alt="ecover-activation" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-activation.jpg" width="200" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-activation.jpg 380w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-activation-300x262.jpg 300w" sizes="(max-width: 380px) 100vw, 380px" /></td>
+<td>
+<h2 style="color: #990000;">Component 4: The Neuromuscular Activation Videos ($97 Value)</h2>
+<p>Your body cannot work properly if you don&#8217;t wake up it&#8217;s own nervous system. The videos in the Neuromuscular Activation workouts will show you exactly which exercises to use right before any physical activity to have you operating at your best. The beauty is that you can do these anytime and anywhere with no equipment necessary. These workouts are the ultimate &#8216;wake up call&#8217;?  for your body and are essential if you workout on a regular basis.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter size-full wp-image-184" alt="ecover-dynamic" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-dynamic.jpg" width="200" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-dynamic.jpg 380w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-dynamic-300x262.jpg 300w" sizes="(max-width: 380px) 100vw, 380px" /></td>
+<td>
+<h2 style="color: #990000;">Component 5: The Dynamic Mobility Videos ($97 Value)</h2>
+<p>This is the final piece of the puzzle when it comes getting your body to work at its most optimal condition. The over 50 Unique Dynamic Mobility exercises were designed to activate your dormant muscles and work INSTANTLY bring your body back into a highly efficient functional movement environment. The best part is that these exercises do not require any type of equipment and can be done anywhere.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter size-full wp-image-182" alt="ecover-upper-body" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-upper-body.jpg" width="200" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-upper-body.jpg 244w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-upper-body-224x300.jpg 224w" sizes="(max-width: 244px) 100vw, 244px" /></td>
+<td>
+<h2 class="vwo_1369648093760" style="color: #990000;">Component 6: Six Minute Superhuman Upper Body Specialized Workouts ($67 Value)</h2>
+<p>Do you hit the gym and ever focus on more upper body specific lifts? This is the perfect 6MS program that will get your chest, back, shoulders, biceps and triceps INSTANTLY ready to hit new personal records, break your lifting plateaus and finish off your sets STRONG with enhanced muscular endurance. This is perfect for the gym enthusiast doing bodybuilding or powerlifting workouts.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter size-full wp-image-181" alt="ecover-lower-body" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-lower-body.jpg" width="200" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-lower-body.jpg 244w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/ecover-lower-body-224x300.jpg 224w" sizes="(max-width: 244px) 100vw, 244px" /></td>
+<td>
+<h2 class="vwo_1369648093812" style="color: #990000;">Component 7: 6 Minute Superhuman Lower Body Specialized Workouts ($67 Value)</h2>
+<p>This is the perfect 6MS program for those hardcore lower body lifting days. Doing this 6MS workout will give you complete confidence when attempting PR&#8217;s (personal records) in your squats and deadlifts. Like the upper body workouts they&#8217;ll also end up giving you more muscular endurance to endure those heavy volume days to finish off each and every set stronger than the first.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter" alt="ecover-lower-body" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/VIP-Coaching-Member.png" width="200" /></td>
+<td>
+<h2 class="vwo_1369648093864" style="color: #990000;">Component 8: Exclusive Access To Our PRIVATE 6 Minute Superhuman Coaching Group ($197 Value)</h2>
+<p>I&#8217;m very much a hands on type of guy and I put my stamp on every single program I put out there. When you purchase the 6 Minute Superhuman system I will literally take you by the hand and coach you through the entire program through my private coaching group. Once you invest in the 6MS system you&#8217;ll get an invitation to our members only VIP coaching group where I can answer all of your questions and even update you constantly with new 6MS workouts along the way.</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<div style="text-align: center;"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/divider.png" /></div>
+</td>
+</tr>
+<tr>
+<td align="center"><img class="aligncenter" alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/dan_bundle_2.jpg" width="200" /></td>
+<td>
+<h2 class="vwo_1369648093864" style="color: #990000;">Component 9: The Rapid Fat Loss Ninja System ($149.95 Value)</h2>
+<p>The Rapid Fat Loss Ninja is a 12 Week Rapid Fat Loss Program that utilizes my principles of Metabolic Adaption. As you do more workouts your body adapts to the stresses you place upon it. With Metabolic Adaptation the workouts change every 3 weeks to incrementally push your body to its limit and create an incredible fat burning afterburn effect that will have you burning fat for days.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="font-size: 32px;" align="center"><b>Only $47 (One Time Payment)</b><br />
+<a title="I want the 6 Minute Superhuman System!" href="http://1.6msuper.pay.clickbank.net/?sku=1361968364&amp;cbfid=11180&amp;cbskin=4975"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/addtocart.jpg" border="0" /></a></p>
+<p><!-- WHAT YOU GET IN 6 MINUTES... ENDS HERE --></p>
+<p><!-- WHEN YOU ORDER... STARTS HERE --></p>
+<p style="font-size: 32px; color: #990000;"><b>When You Order 6 Minute Superhuman Today, You&#8217;ll Finally</b></p>
+<ul>
+<li>Become more stronger and faster than you have ever felt in your entire life.</li>
+<li>Increase your flexibility so that you are as supple as a newborn baby.</li>
+<li>Have MORE ENERGY than you&#8217;ll know what to do withand feel it literally within minutes of applying the strategies in the program.</li>
+<li>Learn how you can prevent injuries to your lower back, knees, shoulders and neck by making a one small change to the way you workout.</li>
+<li>Discover what the startling lifestyle trends between 1988 and 2013 have done to your health.</li>
+<li>Discover the top 2 cheap tools you MUST be using to apply Self Myofascial Release your body.</li>
+<li>Learn why stretching your body and running on the treadmill before you exercise simple does not work at all. You&#8217;ll find out what does.</li>
+<li>Learn the miraculous pre-workout sequence that awakens every muscle in your body, fuels your energy for exercise, and is the number one exercise to prevent pain! One of the most amazing finds ever &#8216; and you can easily do with your own bodyweight!</li>
+<li>Learn how a simple workout can crank up your metabolism and turn your body into a calorie-melting, fat-burning furnace! Easy metabolism-boosting techniques revealed!</li>
+<li>See the 5 minute secret to achieving any physical goal you put in front of you.</li>
+<li>Be shown how to effectively activate your nervous system so it fires off immediately on any command your brain gives it.</li>
+<li>Uncover the untold truth about circuit training workoutsdo they work for you or against you?</li>
+<li>Learn about the ONE common denominator in all injuries and how THREE easy actions can minimize your risk.</li>
+<li>Learn what only 3% of the workout population does and why it&#8217;s so critical to your success.</li>
+<li>Become aware of how adhesions and trigger points are so mutinous in your fascia that it prevents your muscles from contracting fully and exactly how to treat them by using a simple technique using a ball.</li>
+<li>Learn how to make your muscles more &#8216;elastic&#8217;?  and stimulate your body&#8217;s natural own lubricant production.</li>
+<li>Discover how to stimulate the increase of more nutrients and oxygen into your muscles.</li>
+<li>Learn the TWO ways in which we effectively &#8216;wake up&#8217;?  your nervous system and how ONE 40 second strategy turns on your body&#8217;s natural energy &#8216;light switch&#8217;? .</li>
+<li>Learn the youth-preserving and injury-preventing workout secrets of the fittest people on earth!</li>
+<li>Discover the exercise deemed as the &#8216;anti-aging&#8217;?  workout that will essentially make you feel 10 years younger.</li>
+</ul>
+<p>&nbsp;</p>
+<div class="roundbox"><img class="alignleft vwo_1369648092899" alt="Yuri" src="//useruploads.visualwebsiteoptimizer.com/useruploads/42165/images/a51dd00edb94494da196897c1d2317ab.png" width="105" /><br />
+<img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /></p>
+<p class="vwo_1369454187387 vwo_1369648093914"><span style="font-size: medium;">&#8216;I&#8217;ve known Dan for a number of years and when it comes to caring about the success of his clients there are few trainers who care as much as Dan. </span></p>
+<p class="vwo_group_1369648093914_0"><span style="font-size: medium;">He&#8217;s knowledgeable, fun, and commits himself fully to getting them from A to B, while having fun along the way. <strong class="vwo_1369648094545">And his 6-Minute Superhuman program is no different:</strong></span></p>
+<p>It&#8217;s awesome &#8216; just like Dan!&#8217;? </p>
+<div style="text-align: right; font-weight: bold;"><span class="vwo_1369459654140 vwo_1369648094417" style="font-size: medium; color: #800000;">Yuri Elkaim, BPHE, RHN</span><br />
+<span class="vwo_1369648092915" style="font-size: medium;">Author of Eating For Energy<br />
+Author of The Total Wellness Cleanse<br />
+YuriElkaim.com </span> <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></div>
+</div>
+<div class="roundbox">
+<p><img class=" wp-image-1143 alignleft" alt="Issac" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/Issac-200x300.jpg" width="120" height="180" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/Issac-200x300.jpg 200w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/Issac-682x1024.jpg 682w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/Issac.jpg 1200w" sizes="(max-width: 120px) 100vw, 120px" /><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> As a physician, it boggles my mind how disconnected the Medical profession is from helping people prevent disease and truly transform their health. In latin the definition of doctor means &#8216;teacher&#8217;.<strong>Dan Go is a modern day doctor as he teaches people to skyrocket their energy, vitality and overall health.</strong></p>
+<p>As a true doctor, he won&#8217;t give you drugs or medication, rather the most advanced research backed strategies that will turn on anti-aging genes and skyrocket your health and well-being while helping to prevent the disease and disorders that plague the 21st century.&#8217;? </p>
+<p>&#8211; Dr. Isaac H. Jones, Lead Physican at Designer Health Centers <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></p>
+</div>
+<div class="roundbox">
+<p><img class="alignleft size-thumbnail wp-image-1150" alt="jmax" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/jmax-150x150.png" width="150" height="150" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/jmax-150x150.png 150w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/jmax.png 288w" sizes="(max-width: 150px) 100vw, 150px" /><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_2.png" /> Dan is one of the smartest fitness professionals I know. With that being said, <strong>6 Minute Super Human is an INSTANT Classic</strong>.</p>
+<p>It&#8217;s the only foolproof pre-workout program available and nothing else even comes close to the quality and content. 6 Minute Super Human will forever be a resource in my library &#8211; and likely one that I will reference the most for years the come.&#8221;</p>
+<p>&#8211; Jason Maxwell, CSCS, JMaxFitness.com, T-Nation Contributor <img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/quote_1.png" /></p>
+</div>
+<div style="text-align: center;"><img class="aligncenter" style="border: 2px solid black;" alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/05/032_FaceBook.png" width="425" height="234" border="2" /><br />
+<iframe src="http://www.youtube.com/embed/F1lEsjKk0AM?rel=0" height="315" width="562" allowfullscreen="" frameborder="0"></iframe><iframe src="http://www.youtube.com/embed/3Td1IiX8DwM?rel=0" height="422" width="562" allowfullscreen="" frameborder="0"></iframe></div>
+<p>And believe me. this is just the beginning! 6 Minute Superhuman is so much more than just an &#8216;e-book and follow along videos&#8217;? </p>
+<p>It&#8217;s a complete system for sure-fire success &#8216; possibly the most comprehensive workout system for</p>
+<p>greater strength, health, flexibility and energy ever developed! No hype, no B.S., no gimmicks &#8216; just the FACTS you need to know to get on track with incorporating more these exercises into your workout.</p>
+<p style="font-size: 32px;" align="center"><b>Only $47 (One Time Payment)</b><br />
+<a title="I want the 6 Minute Superhuman System!" href="http://1.6msuper.pay.clickbank.net/?sku=1361968364&amp;cbfid=11180&amp;cbskin=4975"><img style="border: 0px none;" alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/addtocart.jpg" width="382" height="142" border="0" /></a></p>
+<div class="guaranteebox">
+<hr class="sectionshadow" />
+<p><img class="alignright size-medium wp-image-675" alt="guarantee" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/guarantee-300x219.png" width="300" height="219" srcset="http://6minutesuperhuman.com/wp-content/uploads/2013/04/guarantee-300x219.png 300w, http://6minutesuperhuman.com/wp-content/uploads/2013/04/guarantee.png 460w" sizes="(max-width: 300px) 100vw, 300px" />If you don&#8217;t feel the difference in your body with this system or if you simply don&#8217;t LOVE the workouts for ANY reason, not only can you keep the workouts (because we know you&#8217;ll eventually come back to using the Peak Performance Formula for results), but we&#8217;ll also give you every single cent back.</p>
+<p>You can try the 6 Minute Superhuman System for a full 60 days. If you are not satisfied at any time during those 60-days, just let me know and we&#8217;ll send you a full refund.</p>
+<p>You are so well-protected by this Performance Formula guarantee, and we are so sure that the workouts are going to give you the greatest results ever (after all, they are the only ones that combine the latest in fitness training with the secrets of the Peak Performance Formula to unlock your best performing body ever), that there is NO risk to you at all.</p>
+<p>That&#8217;s how confident I am that the Peak Performance Formula will work for you AND that you will love the workouts. After all, this system has already worked for thousands of men and women just like you.</p>
+<hr />
+</div>
+<p><!-- WHEN YOU ORDER... ENDS HERE --></p>
+<p><!-- ALL YOU EVER NEEDED STARTS HERE --></p>
+<p style="font-size: 32px;" align="center"><b>All You Ever Needed to Unlock Your Body&#8217;s Maximum Potential is in These Workouts</b></p>
+<p>You&#8217;ve already discovered what doesn&#8217;t work and you&#8217;ve been living in a weak un-energetic body for too long. And countless other programs you&#8217;ve been using have failed you because they were missing the Peak Performance Formula.</p>
+<p>It&#8217;s time to change that starting right NOW. In fact, you could literally be implementing the Peak Performance Formula within minutes of getting started. Don&#8217;t wait any longer.</p>
+<p>Testimonials</p>
+<p>There are already thousands of men and women just like you who have achieved enhanced body&#8217;s, unlimited energy and have transformed their lives.</p>
+<p>You can unlock your body&#8217;s maximum potential and finally win the battle against pain and &#8216;aging&#8217;?  because you&#8217;ll now have the peak performance formula FOREVER.</p>
+<p style="font-size: 32px;" align="center"><b>Only $47 (One Time Payment)</b><br />
+<a title="I want the 6 Minute Superhuman System!" href="http://1.6msuper.pay.clickbank.net/?sku=1361968364&amp;cbfid=11180&amp;cbskin=4975"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/addtocart.jpg" border="0" /></a></p>
+<p>Unlock the secret to fast fat burning with the Perfect Performance Formula today,</p>
+<p><b>Dan Go, CPT, NWS</b><br />
+<em>Creator Bodyback Fat Loss<br />
+Co-Creator of Fat Loss Forever<br />
+Livestrong contributor</em></p>
+<p>P.S. Remember, you can&#8217;t get this Peak Performance Formula anywhere else or with any other program. There have been some great programs out there, but NONE of them have this ONE Peak Performance formula to INSTANTLY feel better in just 6 minutes.</p>
+<p>P.P.S &#8216; Research shows you can increase all markers of athleticism (strength, speed, power, flexibility) And now you can do it in the comfort of your own home using the done-for-you 6 Week follow-along home workout videos AND the specialized workouts that you&#8217;ll get in the 6 Minute Superhuman System.</p>
+<div style="font-size: 18px; color: #990000;">P.P.S. Have a question? We probably already answered it below!</div>
+<p><!-- ALL YOU EVER NEED ENDS HERE --></p>
+<p><!-- Q+A STARTS HERE --></p>
+<h1 style="font-size: 18px; color: #2e6ffd;"><span style="font-size: 24px;">Q:</span> <strong> Ok, I want to get started but how do I receive 6 Minute Superhuman?</strong></h1>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> Since 6 Minute Superhuman is a 73-page e-book in PDF format with more than 20 videos it is easily <strong>downloaded to your computer within a few seconds or streamable from your computer.</strong> Once you order, you will be directed to a download page where you&#8217;ll be able to download 6 Minute Superhuman. We&#8217;ll also send you a confirmation email with a download link for you to keep on file.</p>
+<p>By keeping it in this digital format you benefit from not having to absorb the costs of production and shipping as you would with most books and products. Furthermore, an e-book is much more environmentally friendly than the traditional paperback books.</p>
+<h1 style="font-size: 18px; color: #2e6ffd;"><span style="font-size: 24px;">Q:</span> <strong> What is the 6 Minute Superhuman system, and how does it work?</strong></h1>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> The 6 Minute Superhuman System is a combination of the most cutting edge and scientifically proven performance protocols that can be used at anytime with limited equipment to enhance every aspect of your body&#8217;s performance.</p>
+<p>It&#8217;s particularly used effectively before a workout or doing some sort of intense physical activity. 6MS is a blueprint that was specifically designed to bring your body back to its fullest potential of performance, heal your old nagging injuries while protecting it from new ones.</p>
+<p>The 6 Minutes Superhuman system is based on the three principles of High Performance that virtually guarantees a boost to your body&#8217;s performance by:</p>
+<p>Self Myofascial release to repair your damaged fascia tissue and have it restored back to the way it was supposed to properly function.</p>
+<p>Neuromuscular Activation which is like taking an &#8216;espresso shot&#8217;?  to the body, waking up your nervous system and releasing important fluids to your muscles to get them ready for activity.</p>
+<p>Dynamic Mobility which activates dormant muscles and helps bring your body back to its full potential of motion and movement.</p>
+<p>All three are combined to create the best possible workout and anti aging muscle building environment for your entire lifetime.</p>
+<p>Achieve only one of those and you may get resultsBUT only for a short while.<br />
+When you COMBINE all three of the principles and you are able to achieve a body transformation that will last you an entire lifetime.</p>
+<p>Simply put, we combined 3 of the most used performance enhancing techniques in a simple six minute sequence so you can FINALLY achieve lifelong high performance.</p>
+<p>There is no more excuses about age related pain and weakness.</p>
+<p>6 Minute Superhuman will be the most important and instantly effective program you&#8217;ve ever applied to your body.</p>
+<div style="font-size: 18px; color: #2e6ffd; font-weight: bold;"><span style="font-size: 24px; font-weight: bold;">Q:</span> If I&#8217;m a beginner, can I still use this system?</div>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> Yes, absolutely! In fact, the workout principles of 6 Minute Superhuman are so simple that ANYONE can apply them to their life with ease and our workouts come with easy video instructions anyone can follow. In fact, if you are a beginner it&#8217;s better to apply the principles of this program to your body now before starting any type of other workout program. They will give you the foundation you need to make any program you choose to do more effective.</p>
+<div style="font-size: 18px; color: #2e6ffd; font-weight: bold;"><span style="font-size: 24px; font-weight: bold;">Q:</span> Will I have to spend hours learning the program?</div>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> NO. I&#8217;ve done my time researching and applying the program to my own clients so you don&#8217;t have to spend the years I spent studying the effects of the program.</p>
+<p>All you need to do is press play and follow along with our videos.</p>
+<div style="text-align: center; font-size: 32px; font-weight: bold; color: #2e6ffd; padding-bottom: 20px;"><a title="I want the 6 Minute Superhuman System!" href="http://1.6msuper.pay.clickbank.net/?sku=1361968364&amp;cbfid=11180&amp;cbskin=4975"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/addtocart.jpg" border="0" /><br />
+<span style="color: #0000ff;">Click Here To Save 50%</span></a></div>
+<div style="font-size: 18px; color: #2e6ffd; font-weight: bold;"><span style="font-size: 24px; font-weight: bold;">Q:</span> How do I use this program?</div>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> The 6 Minute Superhuman program is best used right before a workout or before doing an intense physical activity. You can also use it first thing in the morning or whenever you feel like your body needs a boost.</p>
+<p>Think of it like pressing a button on your body and unleashing your ultimate potential of strength, speed, flexibility, stamina PLUS a quick boost of energy.</p>
+<p>The beauty of this program is that the more you do our 6MS workout, the more you enhance your body&#8217;s performance and protect it from injury.</p>
+<div style="text-align: center; font-size: 32px; font-weight: bold; color: #2e6ffd; padding-bottom: 20px;"><a title="I want the 6 Minute Superhuman System!" href="http://1.6msuper.pay.clickbank.net/?sku=1361968364&amp;cbfid=11180&amp;cbskin=4975"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/addtocart.jpg" border="0" /><br />
+<span style="color: #0000ff;">Click Here To Save 50%</span></a></div>
+<div style="font-size: 18px; color: #2e6ffd; font-weight: bold;"><span style="font-size: 24px; font-weight: bold;">Q:</span> I&#8217;m not in my 20&#8242;?²s or 30&#8242;?²s, will this program still work for someone considerably older?</div>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> Yes, and we know that because we&#8217;ve already had plenty of people in their 50&#8242;?²s and 60&#8242;?²s experience massive success while using the program. The program is set up to have you increase your body&#8217;s performance, heal old injuries and prevent new ones&#8217;no matter what age you are.</p>
+<div style="font-size: 18px; color: #2e6ffd; font-weight: bold;"><span style="font-size: 24px; font-weight: bold;">Q:</span> Does this program work just a quickly for women as it does for men?</div>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> Of course! The program does not discriminate based on age, gender, or any other factor. It works across the board. Period.</p>
+<div style="font-size: 18px; color: #2e6ffd; font-weight: bold;"><span style="font-size: 24px; font-weight: bold;">Q:</span> What if it doesn&#8217;t work for me?</div>
+<p><span style="font-size: 24px; font-weight: bold;">A:</span> Then it&#8217;s all FREE.</p>
+<p>Simply put, if you follow the 6 Minute Superhuman 6-week program exactly as outlined in the materials, and for any reason are NOT entirely satisfied with the results you achieve from your efforts, just contact us and we&#8217;ll refund your money.</p>
+<p>It&#8217;s that simple.</p>
+<p>We stand behind our product as a rapid results-producing, INSTANT performance program, and if doesn&#8217;t yield those results for you when followed, you get your money back. No hassles, no hoops to jump through, just a prompt, courteous refund.</p>
+<div style="text-align: center; font-size: 32px; font-weight: bold; color: #2e6ffd;"><a title="I want the 6 Minute Superhuman System!" href="http://1.6msuper.pay.clickbank.net/?sku=1361968364&amp;cbfid=11180&amp;cbskin=4975"><img alt="" src="http://6minutesuperhuman.com/wp-content/uploads/2013/04/addtocart.jpg" border="0" /><br />
+<span style="color: #0000ff;">Click Here To Save 50%</span></a></div>
+<p>&nbsp;</p>
+<div style="font-size: 10px;">Please read our awesome disclaimer: Due to recent statements from the FTC, it is required that we identify what a &#8216;typical&#8217;?  result is. The truth: most people never do anything with the products they buy, so most of the time, their typical results are zero. The biggest factor is you. Don&#8217;t do drugs; stay in school. There is no such thing as a Silver Bullet. I bet this disclaimer would make a good rap song.</div>
+<p><small>ClickBank is the retailer of this product. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk Street, Suite 200, Boise Idaho, 83706, USA and used by permission. ClickBank&#8217;s role as retailer does not constitute an endorsement, approval or review of this product or any claim, statement or opinion used in promotion of this product.</small></p>
+							</div>
+		</div>
+
+<!-- ############################################## content end ########################################### -->
+</div>
+</div>
+    
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+		Copyright &copy; 2013 Go Fitness Inc. All Rights Reserved.</div><!-- .site-info -->
+	</footer>
+    
+</div>
+</div>
+<script language="javascript">
+var popmsg = "> > > W A I T < < <\n\nClick CANCEL below and Ill tell you how you can try the ENTIRE 6 Minute Superhuman System for 77% OFF!\n\nCANCEL = 77% OFF";
+var redirectURL = "http://6minutesuperhuman.com/wait/";
+</script>
+<script language="javascript" src="http://6minutesuperhuman.com/wp-content/plugins/pinoy-pop-up-on-exit/popup.js"></script>
+<link rel='stylesheet' id='mediaelement-css'  href='http://6minutesuperhuman.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://6minutesuperhuman.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.1.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://6minutesuperhuman.com/wp-includes/js/wp-embed.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='http://6minutesuperhuman.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://6minutesuperhuman.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='http://6minutesuperhuman.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='http://6minutesuperhuman.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://6minutesuperhuman.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='http://6minutesuperhuman.com/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.6-78496d1'></script>
+</body></html>
